@@ -24,7 +24,7 @@ body {
 /* Question text */
 #question {
     font-size: 3em; /* Larger font size for the question */
-    margin-bottom: 80px;
+    margin-bottom: 20px;
     margin-top: 20px;
 }
 
