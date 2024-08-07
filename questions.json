@@ -1,259 +1,267 @@
 [
   {
-    "question": "How many heads does a Pushmi-Pullyu have?",
-    "choices": ["One", "Two", "Three", "Four"],
-    "correctAnswer": 1
+    "question": "Who is the author of the novel 'The Story of Doctor Dolittle'?",
+    "choices": ["Hugh Lofting", "J.K. Rowling", "Mark Twain", "Lewis Carroll"],
+    "correctAnswer": 0
   },
   {
-    "question": "What feature makes the Pushmi-Pullyu difficult to catch?",
-    "choices": ["Its speed", "Its size", "Its unique ability", "Its camouflage"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "Where did Pushmi-Pullyus live?",
-    "choices": ["Africa", "Asia", "South America", "unknown location"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Are Pushmi-Pullyus still alive today?",
-    "choices": ["Yes", "No", "Unknown"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is Dr. Dolittle's special ability?",
+    "question": "What unique ability did Dr. Dolittle have?",
     "choices": ["Talking to animals", "Flying", "Invisibility", "Super strength"],
     "correctAnswer": 0
   },
   {
-    "question": "What kind of work does Dr. Dolittle do?",
-    "choices": ["Doctor", "Farmer", "Explorer", "Teacher"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is the capital of France?",
-    "choices": ["Paris", "London", "Berlin", "Madrid"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is 2 + 2?",
-    "choices": ["3", "4", "5", "6"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Which planet is known as the Red Planet?",
-    "choices": ["Earth", "Mars", "Jupiter", "Venus"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What materials are needed to make the bird feeder?",
+    "question": "Why was Dr. Dolittle invited to Africa?",
     "choices": [
-      "Plastic bottle, scissors, pen knife, string, and two wooden sticks",
-      "Glass bottle, scissors, pen knife, string, and two wooden sticks",
-      "Plastic bottle, scissors, paper knife, string, and two metal rods",
-      "Plastic bottle, knife, string, and two wooden sticks"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "question": "Where should you make the first set of holes in the bottle?",
-    "choices": [
-      "In the neck of the bottle",
-      "On either side of the bottle",
-      "At the bottom of the bottle",
-      "On the bottle cap"
+      "To explore new lands",
+      "To cure an epidemic among the monkeys",
+      "To capture rare animals",
+      "To study plants"
     ],
     "correctAnswer": 1
   },
   {
-    "question": "What should be inserted into the holes made on either side of the bottle?",
+    "question": "What did the monkeys give Dr. Dolittle to help him financially?",
+    "choices": ["A rare jewel", "A pushmi-pullyu", "A large sum of money", "A magical potion"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is a pushmi-pullyu?",
     "choices": [
-      "String",
-      "Pen knife",
-      "Wooden sticks",
-      "Scissors"
+      "A mythical bird",
+      "A rare animal with a head at each end",
+      "A magical fruit",
+      "A type of plant"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why was it difficult to catch a pushmi-pullyu?",
+    "choices": [
+      "It was very fast",
+      "It could fly",
+      "It had a head at each end and only one half of it slept at a time",
+      "It could become invisible"
     ],
     "correctAnswer": 2
   },
   {
-    "question": "Why do you need to make small holes in the bottle?",
+    "question": "How did the monkeys persuade the pushmi-pullyu to meet Dr. Dolittle?",
     "choices": [
-      "To insert the string",
-      "For the birds to peck",
-      "To hang the bottle",
-      "To fill the bottle with seeds"
+      "They promised him a lot of food",
+      "They explained that he would not be locked in a zoo",
+      "They threatened him",
+      "They offered him money"
     ],
     "correctAnswer": 1
   },
   {
-    "question": "Where should you make two additional holes in the bottle?",
+    "question": "Why did the pushmi-pullyu decide to go with Dr. Dolittle?",
     "choices": [
-      "At the bottom of the bottle",
-      "In the neck of the bottle",
-      "In the middle of the bottle",
-      "On the cap of the bottle"
+      "He wanted to see the world",
+      "He wanted to be famous",
+      "He felt that Dr. Dolittle was a man to be trusted",
+      "He was forced to go"
     ],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is the final step in making the bird feeder?",
-    "choices": [
-      "Fill the bottle with seeds and hang it in a place where birds will come",
-      "Insert the wooden sticks",
-      "Make holes on the sides of the bottle",
-      "Cut the bottle into two halves"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "question": "True or False: The bird feeder is made from a glass bottle.",
-    "choices": [
-      "True",
-      "False"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "question": "True or False: You need to insert a string through the holes in the neck of the bottle to hang the bird feeder.",
-    "choices": [
-      "True",
-      "False"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "question": "True or False: The wooden sticks are used to make the holes in the bottle.",
-    "choices": [
-      "True",
-      "False"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "question": "True or False: The bottle should be filled with seeds before it is hung.",
-    "choices": [
-      "True",
-      "False"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "question": "How many heads does a pushmi-pullyu have?",
-    "choices": ["One", "Two"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What did the monkeys do to capture the pushmi-pullyu?",
-    "choices": ["Built a cage", "Used nets", "Formed a circle around it", "Lured it with food"],
     "correctAnswer": 2
   },
   {
-    "question": "What did the pushmi-pullyu do when surrounded by the monkeys?",
-    "choices": ["Fought back", "Tried to escape", "Gave up immediately", "Called for help"],
+    "question": "What promise did Dr. Dolittle make to the pushmi-pullyu?",
+    "choices": [
+      "To make him famous",
+      "To send him back if he didn't like the Land of Men",
+      "To give him a lot of food",
+      "To never let him leave"
+    ],
     "correctAnswer": 1
   },
-  {
-    "question": "What did the monkeys want to do with the pushmi-pullyu?",
-    "choices": ["Keep it as a pet", "Study it", "Put it on display", "Eat it"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "Did the pushmi-pullyu agree to go with the monkeys?",
-    "choices": ["Yes", "No"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What was the pushmi-pullyu's reaction to the monkeys' request?",
-    "choices": ["Excited", "Fearful", "Angry", "Indifferent"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What does the term 'menagerie-keepers' mean?",
-    "choices": ["People who study animals", "People who hunt animals", "People who care for animals", "People who sell animals"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "Based on the text, what can you infer about the pushmi-pullyu's personality?",
-    "choices": ["Shy", "Aggressive", "Stubborn", "Friendly"],
-    "correctAnswer": 2
-  },
-  {
-        "question": "What is the special feature of a pushmi-pullyu?",
-        "choices": ["Sharp claws", "Thick fur", "Two heads", "Long tail"],
-        "correctAnswer": 2
-    },
     {
-        "question": "How did the monkeys try to capture the pushmi-pullyu?",
-        "choices": ["Set a trap", "Used nets", "Formed a circle", "Shot it with tranquilizers"],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Why did the pushmi-pullyu refuse to go with the monkeys?",
-        "choices": ["It was afraid", "It didn't like crowds", "It didn't trust them", "It wanted to stay wild"],
-        "correctAnswer": 1
-    },
+    "question": "Why did the monkeys want to help Dr. Dolittle?",
+    "choices": [
+      "Because he was kind to them",
+      "Because they knew he was in poor financial condition",
+      "Because they wanted to go with him",
+      "Because they wanted him to leave Africa"
+    ],
+    "correctAnswer": 1
+  },
   {
-    "question": "What unique physical characteristic did the pushmi-pullyu possess?",
-    "choices": ["Sharp claws", "Thick fur", "Two heads", "Long tail"],
+    "question": "What did the monkeys hope Dr. Dolittle would achieve by showing the pushmi-pullyu in the Land of Men?",
+    "choices": [
+      "Become famous",
+      "Help more animals",
+      "Get rich and pay for the boat he borrowed",
+      "Discover new species"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "How did the monkeys attempt to capture the pushmi-pullyu?",
-    "choices": ["Set traps", "Chased it", "Formed a circle", "Used tranquilizer darts"],
+    "question": "How did the pushmi-pullyu react when first approached by the monkeys?",
+    "choices": [
+      "He was eager to meet Dr. Dolittle",
+      "He was shy and refused to come",
+      "He ran away",
+      "He attacked the monkeys"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What convinced the pushmi-pullyu to trust Dr. Dolittle?",
+    "choices": [
+      "The monkeys' persuasion",
+      "Dr. Dolittle's face and the way he treated his pet animals",
+      "A promise of freedom",
+      "A gift from Dr. Dolittle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What was Dr. Dolittle's financial situation when he arrived in Africa?",
+    "choices": [
+      "He was very wealthy",
+      "He was in poor financial condition",
+      "He had no money at all",
+      "He was supported by the government"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What did the pushmi-pullyu require from Dr. Dolittle before agreeing to go with him?",
+    "choices": [
+      "A promise of safety",
+      "A large sum of money",
+      "A permanent home",
+      "A trip back to his homeland"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How many monkeys were involved in capturing the pushmi-pullyu?",
+    "choices": [
+      "One",
+      "A few",
+      "A large group",
+      "None"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What was the initial reaction of the pushmi-pullyu when surrounded by monkeys?",
-    "choices": ["It hid in the tall grass", "It surrendered peacefully", "It tried to fight its way out", "It called for help"],
+    "question": "Why did the pushmi-pullyu feel safe going with Dr. Dolittle?",
+    "choices": [
+      "He knew he would be kept in a zoo",
+      "He was promised riches",
+      "He saw how Dr. Dolittle treated his pets",
+      "He had no choice"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "Where did the monkeys want to take the pushmi-pullyu?",
-    "choices": ["Back to the jungle", "To a doctor", "To the Land of Men", "To a zoo"],
+    "question": "What did the monkeys hope to achieve by catching the pushmi-pullyu?",
+    "choices": [
+      "To keep it as a pet",
+      "To trade it for food",
+      "To help Dr. Dolittle pay for the boat he borrowed",
+      "To learn more about it"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What was the purpose of taking the pushmi-pullyu to the Land of Men?",
-    "choices": ["To study it", "To breed more pushmi-pullyus", "To put it on display", "To make it a pet"],
+    "question": "What was the epidemic that Dr. Dolittle was called to cure?",
+    "choices": [
+      "A disease affecting elephants",
+      "A plague spreading among monkeys",
+      "A sickness in birds",
+      "A virus affecting lions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What was Dr. Dolittle’s primary motivation for traveling to Africa?",
+    "choices": [
+      "To explore new lands",
+      "To study wildlife",
+      "To help animals by curing the monkey epidemic",
+      "To find a rare animal"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What is the meaning of the word 'menagerie-keepers' in the text?",
-    "choices": ["Animal hunters", "Animal breeders", "Animal caretakers", "Animal researchers"],
+    "question": "How did Dr. Dolittle travel to Africa?",
+    "choices": [
+      "By plane",
+      "By boat",
+      "By train",
+      "By foot"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why did the monkeys believe the pushmi-pullyu would help Dr. Dolittle financially?",
+    "choices": [
+      "Because it was a rare animal that could attract a lot of attention",
+      "Because it could talk to people",
+      "Because it could find treasure",
+      "Because it had magical powers"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What did Dr. Dolittle need money for after arriving in Africa?",
+    "choices": [
+      "To build a house",
+      "To pay for the boat he borrowed",
+      "To buy food for the animals",
+      "To hire more helpers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How did the monkeys feel about Dr. Dolittle?",
+    "choices": [
+      "They were indifferent",
+      "They were afraid of him",
+      "They admired and wanted to help him",
+      "They were jealous of him"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "Why were huntsmen and menagerie-keepers unable to catch a pushmi-pullyu?",
-    "choices": ["They were too slow", "They couldn't find the jungles", "Pushmi-pullyus were too clever", "Pushmi-pullyus had no scent"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What unique physical characteristic did the pushmi-pullyu possess?",
-    "choices": ["Sharp claws", "Thick fur", "Two heads", "Long tail"],
+    "question": "What was the pushmi-pullyu’s initial reaction to the idea of being shown to people?",
+    "choices": [
+      "He was excited",
+      "He was angry",
+      "He was curious",
+      "He was shy and hesitant"
+    ],
     "correctAnswer": 3
   },
   {
-    "question": "How did the monkeys attempt to capture the pushmi-pullyu?",
-    "choices": ["Set traps", "Chased it", "Formed a circle", "Used tranquilizer darts"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What was the initial reaction of the pushmi-pullyu when surrounded by monkeys?",
-    "choices": ["It hid in the tall grass", "It surrendered peacefully", "It tried to fight its way out", "It called for help"],
+    "question": "Why did the monkeys know how to catch the pushmi-pullyu?",
+    "choices": [
+      "They had done it before",
+      "They were familiar with its habits and behavior",
+      "They had special tools",
+      "They had help from Dr. Dolittle"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "Where did the monkeys want to take the pushmi-pullyu?",
-    "choices": ["Back to the jungle", "To a doctor", "To the Land of Men", "To a zoo"],
-    "correctAnswer": 2
+    "question": "What was the pushmi-pullyu’s condition for going with Dr. Dolittle?",
+    "choices": [
+      "That he would be given food",
+      "That he would not be locked in a zoo",
+      "That he would be allowed to return home",
+      "That he would be paid"
+    ],
+    "correctAnswer": 1
   },
   {
-    "question": "What was the purpose of taking the pushmi-pullyu to the Land of Men?",
-    "choices": ["To study it", "To breed more pushmi-pullyus", "To put it on display", "To make it a pet"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What is the meaning of the word 'menagerie-keepers' in the text?",
-    "choices": ["Animal hunters", "Animal breeders", "Animal caretakers", "Animal researchers"],
-    "correctAnswer": 2
+    "question": "What does the pushmi-pullyu symbolize in the story?",
+    "choices": [
+      "The bond between animals and humans",
+      "The rarity and uniqueness of nature",
+      "The challenges of communication",
+      "The dangers of extinction"
+    ],
+    "correctAnswer": 1
   }
 ]
