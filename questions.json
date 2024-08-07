@@ -12,7 +12,7 @@
   {
     "question": "Where did Pushmi-Pullyus live?",
     "choices": ["Africa", "Asia", "South America", "unknown location"],
-    "correctAnswer": 3
+    "correctAnswer": 1
   },
   {
     "question": "Are Pushmi-Pullyus still alive today?",
@@ -28,16 +28,6 @@
     "question": "What kind of work does Dr. Dolittle do?",
     "choices": ["Doctor", "Farmer", "Explorer", "Teacher"],
     "correctAnswer": 0
-  },
-  {
-    "question": "What is the name of the book series featuring Dr. Dolittle?",
-    "choices": ["The Chronicles of Narnia", "Harry Potter", "The Lord of the Rings", "Doctor Dolittle"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "Who is the author of the Dr. Dolittle series?",
-    "choices": ["J.K. Rowling", "C.S. Lewis", "J.R.R. Tolkien", "Hugh Lofting"],
-    "correctAnswer": 3
   },
   {
     "question": "What is the capital of France?",
@@ -177,11 +167,6 @@
     "correctAnswer": 2
   },
   {
-    "question": "Why did the monkeys form a circle around the pushmi-pullyu?",
-    "choices": ["To protect it", "To show respect", "To trap it", "To communicate"],
-    "correctAnswer": 2
-  },
-  {
     "question": "What does the term 'menagerie-keepers' mean?",
     "choices": ["People who study animals", "People who hunt animals", "People who care for animals", "People who sell animals"],
     "correctAnswer": 2
@@ -202,20 +187,10 @@
         "correctAnswer": 2
     },
     {
-        "question": "Where was the pushmi-pullyu supposed to go?",
-        "choices": ["A zoo", "A research facility", "The Land of Men", "A circus"],
-        "correctAnswer": 2
-    },
-    {
         "question": "Why did the pushmi-pullyu refuse to go with the monkeys?",
         "choices": ["It was afraid", "It didn't like crowds", "It didn't trust them", "It wanted to stay wild"],
         "correctAnswer": 1
     },
-	{
-    "question": "Why were huntsmen and menagerie-keepers unable to catch a pushmi-pullyu?",
-    "choices": ["They were too slow", "They couldn't find the jungles", "Pushmi-pullyus were too clever", "Pushmi-pullyus had no scent"],
-    "correctAnswer": 2
-  },
   {
     "question": "What unique physical characteristic did the pushmi-pullyu possess?",
     "choices": ["Sharp claws", "Thick fur", "Two heads", "Long tail"],
