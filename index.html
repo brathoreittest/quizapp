@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Quiz App</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .question-container { margin: 20px; }
+        .choices { list-style-type: none; padding: 0; }
+        .choices li { margin: 10px 0; }
+        .feedback { margin-top: 20px; font-weight: bold; }
+        .result { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="question-container">
+        <div id="question"></div>
+        <ul class="choices" id="choices"></ul>
+        <div class="feedback" id="feedback"></div>
+        <button id="next-btn" style="display:none;">Next Question</button>
+    </div>
+    <div class="result" id="result"></div>
+
+    <script src="quiz.js"></script>
+</body>
+</html>
