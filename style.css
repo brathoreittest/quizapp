@@ -12,12 +12,11 @@ body {
 /* Main quiz container */
 .question-container {
     background-color: #ffffff;
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 90%;
     max-width: 80vw;
-    height: 60vh;
     text-align: center;
 }
 
@@ -25,7 +24,6 @@ body {
 #question {
     font-size: 3em; /* Larger font size for the question */
     margin-bottom: 20px;
-    margin-top: 20px;
 }
 
 /* Choices list */
