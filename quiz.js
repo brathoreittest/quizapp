@@ -7,7 +7,7 @@ let wrongAnswers = 0;
 async function loadQuestions() {
     try {
         // Fetching questions from the external URL
-        const response = await fetch('https://raw.githubusercontent.com/brathoreittest/test/main/questions.json');
+        const response = await fetch('https://raw.githubusercontent.com/brathoreittest/quizapp/main/questions.json');
         allQuestions = await response.json();
         console.log(allQuestions);
 
