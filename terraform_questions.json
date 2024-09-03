@@ -60,16 +60,6 @@
     "correctAnswer": 1
   },
   {
-    "question": "Which of the following is NOT a cloud provider mentioned in the text?",
-    "choices": [
-      "Amazon Web Services",
-      "Azure",
-      "Google Cloud Platform",
-      "IBM Cloud"
-    ],
-    "correctAnswer": 3
-  },
-  {
     "question": "What is the purpose of the 'Plan' stage in the Terraform workflow?",
     "choices": [
       "To write configuration files",
@@ -210,26 +200,6 @@
     "correctAnswer": 1
   },
   {
-    "question": "What are 'Day 0' activities in the context of IaC?",
-    "choices": [
-      "Applying OS updates",
-      "Provisioning and configuring initial infrastructure",
-      "Monitoring infrastructure",
-      "Decommissioning infrastructure"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What does 'Day 1' refer to in the infrastructure lifecycle?",
-    "choices": [
-      "Initial infrastructure build",
-      "OS and application configurations applied after the initial build",
-      "Infrastructure decommissioning",
-      "Infrastructure monitoring"
-    ],
-    "correctAnswer": 1
-  },
-  {
     "question": "How does IaC save time in managing infrastructure?",
     "choices": [
       "By eliminating the need for updates",
@@ -258,16 +228,6 @@
       "By using encrypted files"
     ],
     "correctAnswer": 1
-  },
-  {
-    "question": "What is an example of an infrastructure provider mentioned in the text?",
-    "choices": [
-      "IBM Cloud",
-      "Oracle Cloud",
-      "VMware",
-      "DigitalOcean"
-    ],
-    "correctAnswer": 2
   },
   {
     "question": "What are the characteristics of changes made by IaC?",
@@ -348,16 +308,6 @@
       "It increases hardware costs"
     ],
     "correctAnswer": 1
-  },
-  {
-    "question": "What are some dependencies on infrastructure mentioned in the text?",
-    "choices": [
-      "Financial institutions",
-      "Educational institutions",
-      "Government and military",
-      "Retail businesses"
-    ],
-    "correctAnswer": 2
   },
   {
     "question": "What is a necessary step in mitigating risks associated with infrastructure management?",
