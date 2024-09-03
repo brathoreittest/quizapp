@@ -568,5 +568,5 @@
       "terraform destroy"
     ],
     "correctAnswer": 2
-  },
+  }
 ]
