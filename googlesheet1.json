@@ -1,0 +1,342 @@
+[
+    {
+      "question": "What shortcut selects the entire column in Google Sheets?",
+      "choices": [
+        "Ctrl + Space",
+        "Shift + Space",
+        "Ctrl + a",
+        "Ctrl + Enter"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut selects the entire row in Google Sheets?",
+      "choices": [
+        "Ctrl + Space",
+        "Shift + Space",
+        "Ctrl + Shift + Space",
+        "Ctrl + a"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to select all in Google Sheets?",
+      "choices": [
+        "Ctrl + a",
+        "Ctrl + Shift + Space",
+        "Ctrl + Enter",
+        "Ctrl + z"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut undoes the last action in Google Sheets?",
+      "choices": [
+        "Ctrl + z",
+        "Ctrl + y",
+        "Ctrl + f",
+        "Ctrl + d"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to redo an action in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + z",
+        "Ctrl + y",
+        "F4",
+        "All of the above"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which shortcut allows you to find specific content in Google Sheets?",
+      "choices": [
+        "Ctrl + h",
+        "Ctrl + Enter",
+        "Ctrl + f",
+        "Ctrl + Space"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut for 'Find and Replace' in Google Sheets?",
+      "choices": [
+        "Ctrl + h",
+        "Ctrl + f",
+        "Ctrl + d",
+        "Shift + Space"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What shortcut fills the selected range in Google Sheets?",
+      "choices": [
+        "Ctrl + Enter",
+        "Ctrl + r",
+        "Ctrl + d",
+        "Ctrl + z"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut fills down from the selected cell in Google Sheets?",
+      "choices": [
+        "Ctrl + Enter",
+        "Ctrl + d",
+        "Ctrl + f",
+        "Ctrl + r"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut fills right from the selected cell in Google Sheets?",
+      "choices": [
+        "Ctrl + d",
+        "Ctrl + f",
+        "Ctrl + r",
+        "Ctrl + Enter"
+      ],
+      "correctAnswer": 2
+    },
+	{
+      "question": "What is the shortcut to save your work in Google Sheets?",
+      "choices": [
+        "Ctrl + s",
+        "Ctrl + p",
+        "Ctrl + c",
+        "Ctrl + v"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut opens a document in Google Sheets?",
+      "choices": [
+        "Ctrl + x",
+        "Ctrl + o",
+        "Ctrl + p",
+        "Ctrl + s"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to print a document in Google Sheets?",
+      "choices": [
+        "Ctrl + o",
+        "Ctrl + v",
+        "Ctrl + p",
+        "Ctrl + s"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut copies selected data in Google Sheets?",
+      "choices": [
+        "Ctrl + c",
+        "Ctrl + x",
+        "Ctrl + v",
+        "Ctrl + Shift + v"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to cut selected data in Google Sheets?",
+      "choices": [
+        "Ctrl + c",
+        "Ctrl + x",
+        "Ctrl + v",
+        "Ctrl + Shift + v"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut pastes data in Google Sheets?",
+      "choices": [
+        "Ctrl + x",
+        "Ctrl + c",
+        "Ctrl + v",
+        "Ctrl + Shift + v"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to paste values only in Google Sheets?",
+      "choices": [
+        "Ctrl + c",
+        "Ctrl + x",
+        "Ctrl + v",
+        "Ctrl + Shift + v"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which shortcut shows common keyboard shortcuts in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + k",
+        "Ctrl + /",
+        "Alt + /",
+        "Ctrl + Shift + f"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to insert a new sheet in Google Sheets?",
+      "choices": [
+        "Shift + F11",
+        "Ctrl + Shift + f",
+        "Alt + 1",
+        "Ctrl + o"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut toggles compact controls in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + f",
+        "Alt + /",
+        "Ctrl + Shift + k",
+        "Ctrl + s"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to turn input tools on or off in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + k",
+        "Ctrl + Shift + k",
+        "Alt + /",
+        "Ctrl + Shift + f"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut selects input tools in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + k",
+        "Ctrl + Alt + Shift + k",
+        "Alt + /",
+        "Shift + F11"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to open the tool finder in Google Sheets?",
+      "choices": [
+        "Ctrl + /",
+        "Alt + 1",
+        "Alt + /",
+        "Ctrl + Alt + Shift + k"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut renames the current sheet in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + k",
+        "Ctrl + /",
+        "Alt + /",
+        "Alt + 1"
+      ],
+      "correctAnswer": 3
+    },
+	{
+      "question": "What is the shortcut to bold text in Google Sheets?",
+      "choices": [
+        "Ctrl + u",
+        "Ctrl + b",
+        "Ctrl + i",
+        "Alt + Shift + 5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut underlines text in Google Sheets?",
+      "choices": [
+        "Ctrl + u",
+        "Ctrl + b",
+        "Ctrl + i",
+        "Alt + Shift + 5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to italicize text in Google Sheets?",
+      "choices": [
+        "Ctrl + u",
+        "Ctrl + b",
+        "Ctrl + i",
+        "Alt + Shift + 5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut applies strikethrough formatting in Google Sheets?",
+      "choices": [
+        "Alt + Shift + 5",
+        "Ctrl + Shift + e",
+        "Ctrl + i",
+        "Ctrl + u"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to center align content in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + l",
+        "Ctrl + Shift + e",
+        "Ctrl + Shift + r",
+        "Alt + Shift + 3"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut left-aligns content in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + l",
+        "Ctrl + Shift + e",
+        "Ctrl + Shift + r",
+        "Alt + Shift + 1"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to right-align content in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + l",
+        "Ctrl + Shift + e",
+        "Ctrl + Shift + r",
+        "Alt + Shift + 3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut applies a top border to a cell or selection in Google Sheets?",
+      "choices": [
+        "Alt + Shift + 1",
+        "Alt + Shift + 2",
+        "Alt + Shift + 3",
+        "Ctrl + Shift + r"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to apply a right border in Google Sheets?",
+      "choices": [
+        "Alt + Shift + 1",
+        "Alt + Shift + 2",
+        "Alt + Shift + 3",
+        "Ctrl + Shift + l"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut applies a bottom border to a cell or selection in Google Sheets?",
+      "choices": [
+        "Alt + Shift + 1",
+        "Alt + Shift + 2",
+        "Alt + Shift + 3",
+        "Ctrl + Shift + e"
+      ],
+      "correctAnswer": 2
+    }
+  ]
