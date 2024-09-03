@@ -1,0 +1,602 @@
+[
+  {
+    "question": "What command should you run to initialize a new or existing Terraform configuration directory?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform validate"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does the 'terraform init' command do?",
+    "choices": [
+      "Formats the configuration files",
+      "Validates the configuration",
+      "Initializes the configuration directory",
+      "Plans the changes required for the infrastructure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which file does Terraform create to record the provider selections?",
+    "choices": [
+      ".terraform.lock.hcl",
+      "provider.tf",
+      "main.tf",
+      "variables.tf"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you do if you set or change modules or backend configuration for Terraform?",
+    "choices": [
+      "Run 'terraform plan'",
+      "Run 'terraform fmt'",
+      "Run 'terraform init' again",
+      "Run 'terraform validate'"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which command automatically updates configurations for readability and consistency?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform validate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does the 'terraform fmt' command do?",
+    "choices": [
+      "Initializes the configuration directory",
+      "Formats the configuration files",
+      "Validates the configuration",
+      "Plans the changes required for the infrastructure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How can you ensure your configuration is syntactically valid and internally consistent?",
+    "choices": [
+      "By running 'terraform plan'",
+      "By running 'terraform fmt'",
+      "By running 'terraform init'",
+      "By running 'terraform validate'"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What does the 'terraform validate' command do?",
+    "choices": [
+      "Initializes the configuration directory",
+      "Formats the configuration files",
+      "Validates the configuration",
+      "Plans the changes required for the infrastructure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What should you include in your version control repository to ensure consistent provider selections?",
+    "choices": [
+      "main.tf",
+      ".terraform.lock.hcl",
+      "variables.tf",
+      "provider.tf"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the '.terraform.lock.hcl' file?",
+    "choices": [
+      "To format the configuration files",
+      "To validate the configuration",
+      "To record the provider selections",
+      "To plan the changes required for the infrastructure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What command should you run to apply the configuration and create infrastructure?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform apply"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What symbol indicates that a resource will be created in the Terraform execution plan?",
+    "choices": [
+      "-",
+      "~",
+      "+",
+      "*"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does the 'terraform apply' command do?",
+    "choices": [
+      "Initializes the configuration directory",
+      "Applies the configuration to create infrastructure",
+      "Formats the configuration files",
+      "Validates the configuration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you type to approve the execution plan in Terraform?",
+    "choices": [
+      "no",
+      "yes",
+      "apply",
+      "confirm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What file does Terraform write data into when you apply your configuration?",
+    "choices": [
+      "terraform.tfstate",
+      ".terraform.lock.hcl",
+      "main.tf",
+      "variables.tf"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does the 'terraform.tfstate' file contain?",
+    "choices": [
+      "Provider selections",
+      "Configuration formatting",
+      "IDs and properties of managed resources",
+      "Validation results"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why is it important to store the 'terraform.tfstate' file securely?",
+    "choices": [
+      "It contains sensitive information",
+      "It formats the configuration files",
+      "It initializes the configuration directory",
+      "It validates the configuration"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What command can you use to inspect the current state in Terraform?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform show",
+      "terraform validate"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What region was the EC2 instance created in according to the aws provider block?",
+    "choices": [
+      "us-east-1",
+      "us-west-2",
+      "eu-central-1",
+      "ap-south-1"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you do if your configuration fails to apply?",
+    "choices": [
+      "Run 'terraform fmt'",
+      "Run 'terraform validate'",
+      "Refer to the troubleshooting section of the tutorial",
+      "Run 'terraform show'"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What command can you use for advanced state management in Terraform?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform state",
+      "terraform validate"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What subcommand lists the resources in your project's state?",
+    "choices": [
+      "list",
+      "show",
+      "describe",
+      "resources"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you do if you use a region other than us-west-2?",
+    "choices": [
+      "Change your instance type",
+      "Change your AMI ID",
+      "Change your security group",
+      "Change your subnet"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you do if you do not have a default VPC in your AWS account?",
+    "choices": [
+      "Create a new VPC and associate a subnet and security group",
+      "Change your AMI ID",
+      "Run 'terraform fmt'",
+      "Run 'terraform validate'"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What arguments should you add to your aws_instance resource if you create a new VPC?",
+    "choices": [
+      "ami and instance_type",
+      "vpc_security_group_ids and subnet_id",
+      "region and availability_zone",
+      "key_name and user_data"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does the prefix -/+ mean in the Terraform execution plan?",
+    "choices": [
+      "Resource will be created",
+      "Resource will be updated in-place",
+      "Resource will be destroyed and recreated",
+      "Resource will be ignored"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does Terraform do if it cannot change the AMI of an instance after it has been created?",
+    "choices": [
+      "Updates the instance in-place",
+      "Destroys the old instance and creates a new one",
+      "Ignores the change",
+      "Throws an error"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What command should you run after changing the configuration to apply the changes?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform apply"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What does the 'terraform state list' command output?",
+    "choices": [
+      "The execution plan",
+      "The list of resources in the state",
+      "The formatted configuration",
+      "The validation results"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you do if 'terraform validate' was successful but 'terraform apply' failed?",
+    "choices": [
+      "Run 'terraform fmt'",
+      "Run 'terraform show'",
+      "Refer to the troubleshooting section",
+      "Run 'terraform state list'"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What command should you run to destroy resources managed by your Terraform project?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform destroy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What symbol indicates that a resource will be destroyed in the Terraform execution plan?",
+    "choices": [
+      "+",
+      "-",
+      "~",
+      "*"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does the 'terraform destroy' command do?",
+    "choices": [
+      "Initializes the configuration directory",
+      "Destroys resources managed by Terraform",
+      "Formats the configuration files",
+      "Validates the configuration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you type to confirm the destruction of resources in Terraform?",
+    "choices": [
+      "no",
+      "yes",
+      "destroy",
+      "confirm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does the prefix '-' mean in the Terraform execution plan?",
+    "choices": [
+      "Resource will be created",
+      "Resource will be updated in-place",
+      "Resource will be destroyed",
+      "Resource will be ignored"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What happens if you answer 'yes' to the destruction plan in Terraform?",
+    "choices": [
+      "Terraform will create new resources",
+      "Terraform will update existing resources",
+      "Terraform will destroy the specified resources",
+      "Terraform will validate the configuration"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why might you want to destroy infrastructure managed by Terraform?",
+    "choices": [
+      "To reduce security exposure and costs",
+      "To format the configuration files",
+      "To validate the configuration",
+      "To initialize the configuration directory"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does Terraform do before making any changes during destruction?",
+    "choices": [
+      "Formats the configuration files",
+      "Validates the configuration",
+      "Shows the execution plan and waits for approval",
+      "Initializes the configuration directory"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does Terraform do if there are multiple resources to destroy?",
+    "choices": [
+      "Destroys them in a suitable order to respect dependencies",
+      "Ignores the dependencies",
+      "Destroys them all at once",
+      "Throws an error"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the inverse command of 'terraform apply'?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform destroy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the inverse command of 'terraform apply'?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform destroy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which command initializes a Terraform configuration directory?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform apply"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does the 'terraform plan' command do?",
+    "choices": [
+      "Formats Terraform configuration files",
+      "Generates an execution plan",
+      "Initializes the configuration directory",
+      "Applies the changes required to reach the desired state"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which file records the provider selections made by Terraform?",
+    "choices": [
+      "main.tf",
+      ".terraform.lock.hcl",
+      "variables.tf",
+      "outputs.tf"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the 'terraform fmt' command?",
+    "choices": [
+      "Formats Terraform configuration files",
+      "Generates an execution plan",
+      "Initializes the configuration directory",
+      "Applies the changes required to reach the desired state"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which command is used to see any changes required for your infrastructure?",
+    "choices": [
+      "terraform apply",
+      "terraform plan",
+      "terraform init",
+      "terraform destroy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the 'terraform apply' command?",
+    "choices": [
+      "Formats Terraform configuration files",
+      "Generates an execution plan",
+      "Initializes the configuration directory",
+      "Applies the changes required to reach the desired state"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which command is used to destroy the infrastructure managed by Terraform?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform destroy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the purpose of the 'terraform init' command?",
+    "choices": [
+      "Formats Terraform configuration files",
+      "Generates an execution plan",
+      "Initializes the configuration directory",
+      "Applies the changes required to reach the desired state"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which file should be included in your version control repository to ensure consistent provider selections?",
+    "choices": [
+      "main.tf",
+      ".terraform.lock.hcl",
+      "variables.tf",
+      "outputs.tf"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the first step to set up HCP Terraform if you already have an account?",
+    "choices": [
+      "Create a new organization",
+      "Log in using your existing credentials",
+      "Modify the main.tf file",
+      "Run terraform init"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What block needs to be added to the main.tf file to configure HCP Terraform?",
+    "choices": [
+      "provider",
+      "resource",
+      "cloud",
+      "variable"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the minimum required version of Terraform to use the cloud block?",
+    "choices": [
+      "0.12.0",
+      "1.0.0",
+      "1.1.0",
+      "1.2.0"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which command is used to log into your HCP Terraform account with the Terraform CLI?",
+    "choices": [
+      "terraform init",
+      "terraform apply",
+      "terraform login",
+      "terraform plan"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where does Terraform store the API token after a successful login?",
+    "choices": [
+      "/Users/<USER>/.terraform.d/credentials.tfrc.json",
+      "/Users/<USER>/.terraform.d/credentials.json",
+      "/Users/<USER>/.terraform.d/token.json",
+      "/Users/<USER>/.terraform.d/api_token.json"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What command do you run to re-initialize your configuration and migrate your state file to HCP Terraform?",
+    "choices": [
+      "terraform apply",
+      "terraform plan",
+      "terraform login",
+      "terraform init"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What should you do after Terraform has migrated the state file to HCP Terraform?",
+    "choices": [
+      "Run terraform apply",
+      "Delete the local state file",
+      "Run terraform plan",
+      "Re-initialize the configuration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the two environment variables you need to set in your HCP Terraform workspace?",
+    "choices": [
+      "AWS_REGION and AWS_PROFILE",
+      "AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY",
+      "AWS_ACCOUNT_ID and AWS_SECRET_KEY",
+      "AWS_KEY_ID and AWS_SECRET"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What command do you run to trigger a run in HCP Terraform after setting up the workspace variables?",
+    "choices": [
+      "terraform init",
+      "terraform plan",
+      "terraform apply",
+      "terraform destroy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What mode will you use for this tutorial to execute Terraform?",
+    "choices": [
+      "Local execution mode",
+      "Remote execution mode",
+      "Hybrid execution mode",
+      "Manual execution mode"
+    ],
+    "correctAnswer": 1
+  }
+]
