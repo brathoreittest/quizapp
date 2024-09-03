@@ -180,16 +180,6 @@
     "correctAnswer": 2
   },
   {
-    "question": "What region was the EC2 instance created in according to the aws provider block?",
-    "choices": [
-      "us-east-1",
-      "us-west-2",
-      "eu-central-1",
-      "ap-south-1"
-    ],
-    "correctAnswer": 1
-  },
-  {
     "question": "What should you do if your configuration fails to apply?",
     "choices": [
       "Run 'terraform fmt'",
@@ -218,16 +208,6 @@
       "resources"
     ],
     "correctAnswer": 0
-  },
-  {
-    "question": "What should you do if you use a region other than us-west-2?",
-    "choices": [
-      "Change your instance type",
-      "Change your AMI ID",
-      "Change your security group",
-      "Change your subnet"
-    ],
-    "correctAnswer": 1
   },
   {
     "question": "What should you do if you do not have a default VPC in your AWS account?",
@@ -589,14 +569,4 @@
     ],
     "correctAnswer": 2
   },
-  {
-    "question": "What mode will you use for this tutorial to execute Terraform?",
-    "choices": [
-      "Local execution mode",
-      "Remote execution mode",
-      "Hybrid execution mode",
-      "Manual execution mode"
-    ],
-    "correctAnswer": 1
-  }
 ]
