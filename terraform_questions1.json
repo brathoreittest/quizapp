@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What do Terraform providers manage?",
+    "choices": [
+      "Cloud storage",
+      "Resources by communicating between Terraform and target APIs",
+      "User authentication",
+      "User interfaces"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why is it important for multiple users or automation tools to use the same provider versions?",
+    "choices": [
+      "To ensure consistent application of the configuration",
+      "To save storage space",
+      "To improve network speed",
+      "To enhance user experience"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are the two ways to manage provider versions in a Terraform configuration?",
+    "choices": [
+      "Specify provider version constraints and use the dependency lock file",
+      "Use cloud storage and user authentication",
+      "Create user interfaces and manage user authentication",
+      "Enhance network speed and save storage space"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What might happen if you do not scope provider versions appropriately?",
+    "choices": [
+      "Terraform will download the latest provider version that fulfills the version constraint, leading to unexpected infrastructure changes",
+      "Terraform will save storage space",
+      "Terraform will improve network speed",
+      "Terraform will enhance user experience"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What files are included in the pre-initialized Terraform project directory?",
+    "choices": [
+      "main.tf, terraform.tf, and .terraform.lock.hcl",
+      "index.html, style.css, and script.js",
+      "app.py, requirements.txt, and Dockerfile",
+      "config.yaml, deployment.yaml, and service.yaml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does the required_providers block in the terraform block specify?",
+    "choices": [
+      "Provider local name, source address, and version",
+      "Provider description, source code, and documentation",
+      "Provider API keys, endpoints, and credentials",
+      "Provider region, availability zone, and instance type"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What version of the random provider will Terraform download when you initialize this configuration?",
+    "choices": [
+      "Version 2.0.0",
+      "Version 3.1.0",
+      "Version 4.5.0",
+      "Version 5.0.0"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What version of the AWS provider will Terraform download?",
+    "choices": [
+      "The latest version that is greater than 4.5.0",
+      "Version 3.1.0",
+      "Version 2.0.0",
+      "The latest version that is less than 4.5.0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does the >= version constraint operator specify?",
+    "choices": [
+      "The minimum provider version that is compatible with the configuration",
+      "The maximum provider version that is compatible with the configuration",
+      "The exact provider version that is compatible with the configuration",
+      "The latest provider version that is compatible with the configuration"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does the ~> operator specify in the Terraform block?",
+    "choices": [
+      "Only Terraform binaries v1.x, but newer than v1.2, can run this configuration",
+      "Only Terraform binaries v2.x, but newer than v2.2, can run this configuration",
+      "Only Terraform binaries v1.x, but older than v1.2, can run this configuration",
+      "Only Terraform binaries v2.x, but older than v2.2, can run this configuration"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What file does Terraform generate when you initialize a configuration for the first time with Terraform 1.1 or later?",
+    "choices": [
+      ".terraform.lock.hcl",
+      "main.tf",
+      "terraform.tf",
+      "provider.tf"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why should you include the lock file in your version control repository?",
+    "choices": [
+      "To ensure that Terraform uses the same provider versions across your team and in ephemeral remote execution environments",
+      "To save storage space",
+      "To improve network speed",
+      "To enhance user experience"
+    ],
+    "correctAnswer": 0
+  },
+   {
+    "question": "What does Terraform install instead of the latest version of the AWS provider?",
+    "choices": [
+      "The version specified in the lock file",
+      "The latest version available",
+      "The oldest version available",
+      "A random version"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does Terraform read while initializing your workspace to download the specified versions of providers?",
+    "choices": [
+      "The dependency lock file",
+      "The main.tf file",
+      "The terraform.tf file",
+      "The provider.tf file"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What happens if Terraform does not find a lock file?",
+    "choices": [
+      "It downloads the latest versions of the providers that fulfill the version constraints",
+      "It fails to initialize",
+      "It uses default provider versions",
+      "It prompts the user to specify provider versions"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What version of the AWS provider will Terraform download with a version constraint of '>= 4.5.0' and no lock file?",
+    "choices": [
+      "The latest version (e.g., 5.55.0)",
+      "Version 4.5.0",
+      "Version 3.1.0",
+      "Version 2.0.0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What version of the random provider will Terraform download with a version constraint of '3.1.0' and a lock file?",
+    "choices": [
+      "Version 3.1.0",
+      "The latest version",
+      "Version 4.5.0",
+      "Version 2.0.0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does the lock file ensure in Terraform?",
+    "choices": [
+      "Consistent runs across your team or remote sessions",
+      "Faster initialization",
+      "Improved network speed",
+      "Enhanced user experience"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you respond to the confirmation prompt to apply your configuration?",
+    "choices": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Cancel"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does the -upgrade flag do in Terraform?",
+    "choices": [
+      "Upgrades all providers to the latest version consistent within the version constraints",
+      "Downgrades all providers to the previous version",
+      "Deletes all providers",
+      "Installs new providers"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Should you directly modify the lock file in Terraform?",
+    "choices": [
+      "No",
+      "Yes",
+      "Sometimes",
+      "Only if necessary"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What command is used to upgrade the AWS provider in Terraform?",
+    "choices": [
+      "$ terraform init -upgrade",
+      "$ terraform apply -upgrade",
+      "$ terraform plan -upgrade",
+      "$ terraform destroy -upgrade"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you do after upgrading the provider versions?",
+    "choices": [
+      "Review the changes and commit them to your version control system",
+      "Delete the lock file",
+      "Ignore the changes",
+      "Reinitialize the configuration"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What command should you run to ensure that your configuration works with the upgraded provider?",
+    "choices": [
+      "$ terraform plan",
+      "$ terraform apply",
+      "$ terraform destroy",
+      "$ terraform init"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you do if the plan or apply steps fail after upgrading the provider?",
+    "choices": [
+      "Do not commit the lock file to version control until you've resolved the error",
+      "Commit the lock file to version control immediately",
+      "Delete the lock file",
+      "Reinitialize the configuration"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does the lock file instruct Terraform to do?",
+    "choices": [
+      "Always install the same provider version",
+      "Always install the latest provider version",
+      "Always install the oldest provider version",
+      "Always install a random provider version"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What command is used to upgrade all providers to the latest version consistent with the version constraints?",
+    "choices": [
+      "$ terraform init -upgrade",
+      "$ terraform apply -upgrade",
+      "$ terraform plan -upgrade",
+      "$ terraform destroy -upgrade"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you never do directly to the lock file?",
+    "choices": [
+      "Modify it",
+      "Delete it",
+      "Copy it",
+      "Rename it"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What command is used to destroy the resources?",
+    "choices": [
+      "$ terraform destroy",
+      "$ terraform apply",
+      "$ terraform plan",
+      "$ terraform init"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What symbol indicates resource actions in the Terraform execution plan?",
+    "choices": [
+      "- destroy",
+      "+ create",
+      "~ update",
+      "* refresh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you do after destroying your resources if you used HCP Terraform",
+    "choices": [
+      "Delete the learn-terraform-provider-versioning workspace from your HCP Terraform organization",
+      "Create a new workspace",
+      "Initialize the configuration again",
+      "Upgrade the provider versions"
+    ],
+    "correctAnswer": 0
+  }
+]
