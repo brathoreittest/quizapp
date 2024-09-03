@@ -1,0 +1,442 @@
+[
+  {
+    "question": "What is Terraform?",
+    "choices": [
+      "A cloud storage service",
+      "An infrastructure as code tool",
+      "A programming language",
+      "A database management system"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What can Terraform manage?",
+    "choices": [
+      "Only cloud resources",
+      "Only on-prem resources",
+      "Both cloud and on-prem resources",
+      "Only networking resources"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the three stages of the core Terraform workflow?",
+    "choices": [
+      "Write, Plan, Apply",
+      "Create, Update, Delete",
+      "Build, Test, Deploy",
+      "Design, Implement, Monitor"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the purpose of Terraform providers?",
+    "choices": [
+      "To enable Terraform to work with various platforms and services",
+      "To provide cloud storage",
+      "To manage user authentication",
+      "To create user interfaces"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Where can you find publicly available Terraform providers?",
+    "choices": [
+      "Terraform Registry",
+      "GitHub",
+      "AWS Marketplace",
+      "Google Cloud Platform"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What type of files does Terraform use to define resources?",
+    "choices": [
+      "Binary files",
+      "Human-readable configuration files",
+      "Executable files",
+      "Encrypted files"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is NOT a cloud provider mentioned in the text?",
+    "choices": [
+      "Amazon Web Services",
+      "Azure",
+      "Google Cloud Platform",
+      "IBM Cloud"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the purpose of the 'Plan' stage in the Terraform workflow?",
+    "choices": [
+      "To write configuration files",
+      "To create an execution plan",
+      "To apply changes to infrastructure",
+      "To destroy resources"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is an example of a high-level component that Terraform can manage?",
+    "choices": [
+      "Compute resources",
+      "Storage resources",
+      "Networking resources",
+      "DNS entries"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How does Terraform interact with cloud platforms and other services?",
+    "choices": [
+      "Through user interfaces",
+      "Through command-line tools",
+      "Through application programming interfaces (APIs)",
+      "Through manual configuration"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the main benefit of using Terraform's human-readable configuration files?",
+    "choices": [
+      "They are faster to execute",
+      "They can be versioned, reused, and shared",
+      "They are more secure",
+      "They require less storage space"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which stage of the Terraform workflow involves performing the proposed operations?",
+    "choices": [
+      "Write",
+      "Plan",
+      "Apply",
+      "Destroy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What kind of resources can Terraform manage?",
+    "choices": [
+      "Only low-level components like compute and storage",
+      "Only high-level components like DNS entries and SaaS features",
+      "Both low-level and high-level components",
+      "Only networking resources"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the role of the Terraform community in relation to providers?",
+    "choices": [
+      "To write and maintain providers",
+      "To provide cloud storage",
+      "To manage user authentication",
+      "To create user interfaces"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is an example of a low-level component that Terraform can manage?",
+    "choices": [
+      "DNS entries",
+      "SaaS features",
+      "Compute resources",
+      "User interfaces"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What often prompts people to change their governance practices?",
+    "choices": [
+      "Technological advancements",
+      "System outages or failures",
+      "New software releases",
+      "Employee training"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do companies typically manage their cloud infrastructure when they first move to the cloud?",
+    "choices": [
+      "Using infrastructure as code (IaC)",
+      "Logging into the virtual infrastructure’s web interface or using GUI/CLI",
+      "Hiring more IT staff",
+      "Outsourcing to third-party providers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is infrastructure as code (IaC)?",
+    "choices": [
+      "A type of cloud service",
+      "Infrastructure defined as code within definition files",
+      "A programming language",
+      "A database management system"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why were early virtual compute commands difficult to use?",
+    "choices": [
+      "They were not compatible with cloud services",
+      "They required specialized hardware",
+      "They were hard for humans to read",
+      "They were too expensive"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is one major benefit of modern infrastructure as code (IaC) tools?",
+    "choices": [
+      "They are cheaper to use",
+      "They simplify code testing and enable reuse of code components",
+      "They require no training",
+      "They eliminate the need for cloud services"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is an example of a component that can be reused across different projects in IaC?",
+    "choices": [
+      "Virtual machines",
+      "Modules of code",
+      "Physical servers",
+      "Network cables"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are 'Day 0' activities in the context of IaC?",
+    "choices": [
+      "Applying OS updates",
+      "Provisioning and configuring initial infrastructure",
+      "Monitoring infrastructure",
+      "Decommissioning infrastructure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'Day 1' refer to in the infrastructure lifecycle?",
+    "choices": [
+      "Initial infrastructure build",
+      "OS and application configurations applied after the initial build",
+      "Infrastructure decommissioning",
+      "Infrastructure monitoring"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How does IaC save time in managing infrastructure?",
+    "choices": [
+      "By eliminating the need for updates",
+      "By automating the provisioning and application of configurations",
+      "By reducing the need for hardware",
+      "By increasing the number of IT staff"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is one benefit of IaC in terms of workflow standardization?",
+    "choices": [
+      "It uses a common syntax across different infrastructure providers",
+      "It eliminates the need for cloud services",
+      "It requires no training",
+      "It reduces the cost of infrastructure"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How does IaC help in understanding the intent of infrastructure changes?",
+    "choices": [
+      "By using a single file for all configurations",
+      "By allowing code to span multiple files and organizing based on intent",
+      "By requiring manual configuration",
+      "By using encrypted files"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is an example of an infrastructure provider mentioned in the text?",
+    "choices": [
+      "IBM Cloud",
+      "Oracle Cloud",
+      "VMware",
+      "DigitalOcean"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the characteristics of changes made by IaC?",
+    "choices": [
+      "Inconsistent and unpredictable",
+      "Idempotent, consistent, repeatable, and predictable",
+      "Complex and time-consuming",
+      "Manual and error-prone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What issue can arise when scaling up infrastructure without IaC?",
+    "choices": [
+      "Increased hardware costs",
+      "Manual provisioning leading to inconsistencies",
+      "Lack of cloud support",
+      "Increased need for physical space"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How does IaC help in ensuring consistency and repeatability?",
+    "choices": [
+      "By requiring manual configuration",
+      "By automating the provisioning and configuration process",
+      "By eliminating the need for updates",
+      "By using encrypted files"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the benefit of checking IaC code into version control systems?",
+    "choices": [
+      "It reduces the cost of infrastructure",
+      "It allows for the review of how infrastructure evolves over time",
+      "It eliminates the need for updates",
+      "It requires no training"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does Terraform do during execution to manage infrastructure changes?",
+    "choices": [
+      "It manually configures each server",
+      "It examines the current state and applies only necessary changes",
+      "It replaces all existing infrastructure",
+      "It requires manual approval for each change"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How does IaC make infrastructure more manageable?",
+    "choices": [
+      "By reducing the need for cloud services",
+      "By enabling mutation via code with minimal changes",
+      "By increasing the number of IT staff",
+      "By requiring manual configuration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are some potential impacts of poor infrastructure management decisions?",
+    "choices": [
+      "Financial and reputational losses",
+      "Increased hardware costs",
+      "Lack of cloud support",
+      "Increased need for physical space"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why is adopting an IaC tool like HashiCorp Terraform important?",
+    "choices": [
+      "It reduces the need for IT staff",
+      "It mitigates risks associated with poor infrastructure management",
+      "It eliminates the need for updates",
+      "It increases hardware costs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are some dependencies on infrastructure mentioned in the text?",
+    "choices": [
+      "Financial institutions",
+      "Educational institutions",
+      "Government and military",
+      "Retail businesses"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a necessary step in mitigating risks associated with infrastructure management?",
+    "choices": [
+      "Increasing the number of IT staff",
+      "Adopting IaC tools and established processes",
+      "Eliminating cloud services",
+      "Reducing hardware costs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does IaC stand for?",
+    "choices": [
+      "Infrastructure as Code",
+      "Information and Communication",
+      "Internet and Cloud",
+      "Infrastructure and Configuration"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How was traditional infrastructure typically managed in a private data center?",
+    "choices": [
+      "Through automated scripts",
+      "By filing a ticket and manually provisioning via a management portal",
+      "Using infrastructure as code (IaC)",
+      "By outsourcing to third-party providers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is one key change when transitioning to a cloud environment?",
+    "choices": [
+      "Infrastructure is predominantly API-driven",
+      "Infrastructure is managed manually",
+      "Infrastructure is less elastic",
+      "Infrastructure costs are fixed"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How has the elasticity of infrastructure changed with the transition to the cloud?",
+    "choices": [
+      "It has decreased",
+      "It remains the same",
+      "It has increased, with resources living for days to weeks",
+      "It is no longer relevant"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why does the traditional method of filing tickets become challenging in a cloud environment?",
+    "choices": [
+      "Because it is too expensive",
+      "Because it is prone to human error and not scalable",
+      "Because it requires more hardware",
+      "Because it eliminates the need for updates"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the main idea behind infrastructure as code (IaC)?",
+    "choices": [
+      "To manually configure infrastructure",
+      "To capture and automate infrastructure processes in a codified way",
+      "To reduce the number of IT staff",
+      "To increase hardware costs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the benefits of capturing infrastructure as code?",
+    "choices": [
+      "Versioning, reusability, and automation",
+      "Increased manual intervention",
+      "Higher costs",
+      "Reduced transparency"
+    ],
+    "correctAnswer": 0
+  }
+]
