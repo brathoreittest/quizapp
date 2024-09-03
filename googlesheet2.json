@@ -1,0 +1,802 @@
+[
+    {
+      "question": "What is the shortcut to apply a left border in Google Sheets?",
+      "choices": [
+        "Alt + Shift + 1",
+        "Alt + Shift + 4",
+        "Alt + Shift + 2",
+        "Alt + Shift + 7"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut removes borders from a selection in Google Sheets?",
+      "choices": [
+        "Alt + Shift + 4",
+        "Alt + Shift + 6",
+        "Alt + Shift + 7",
+        "Ctrl + Shift + 7"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to apply an outer border to a cell or selection in Google Sheets?",
+      "choices": [
+        "Alt + Shift + 7",
+        "Alt + Shift + 6",
+        "Ctrl + Shift + 7",
+        "Alt + Shift + 4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut also applies an outer border in Google Sheets?",
+      "choices": [
+        "Alt + Shift + 7",
+        "Ctrl + Shift + 7",
+        "Alt + Shift + 4",
+        "Alt + Shift + 6"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to insert a hyperlink in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + 7",
+        "Ctrl + k",
+        "Ctrl + Alt + k",
+        "Ctrl + Shift + k"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut inserts the current time in Google Sheets?",
+      "choices": [
+        "Ctrl + ;",
+        "Ctrl + Alt + ;",
+        "Ctrl + Shift + ;",
+        "Ctrl + Alt + Shift + ;"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to insert the current date in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + ;",
+        "Ctrl + Alt + ;",
+        "Ctrl + ;",
+        "Ctrl + Alt + Shift + ;"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut inserts both the current date and time in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + ;",
+        "Ctrl + Shift + ;",
+        "Ctrl + ;",
+        "Ctrl + Shift + 7"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to format a cell as a decimal in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + 1",
+        "Ctrl + Shift + 2",
+        "Ctrl + Shift + 3",
+        "Ctrl + Shift + 7"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut formats a cell as time in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + 1",
+        "Ctrl + Shift + 2",
+        "Ctrl + Shift + 3",
+        "Ctrl + Shift + 7"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to format a cell as a date in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + 1",
+        "Ctrl + Shift + 2",
+        "Ctrl + Shift + 3",
+        "Ctrl + Shift + 7"
+      ],
+      "correctAnswer": 2
+    },
+	{
+      "question": "What is the shortcut to move to the beginning of a row in Google Sheets?",
+      "choices": [
+        "Ctrl + Home",
+        "Home",
+        "End",
+        "Ctrl + End"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut moves to the beginning of the sheet in Google Sheets?",
+      "choices": [
+        "Home",
+        "Ctrl + Home",
+        "End",
+        "Ctrl + End"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to move to the end of a row in Google Sheets?",
+      "choices": [
+        "Ctrl + Home",
+        "Home",
+        "End",
+        "Ctrl + End"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut moves to the end of the sheet in Google Sheets?",
+      "choices": [
+        "End",
+        "Home",
+        "Ctrl + Home",
+        "Ctrl + End"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the shortcut to scroll to the active cell in Google Sheets?",
+      "choices": [
+        "Ctrl + Backspace",
+        "Ctrl + Home",
+        "Alt + Down Arrow",
+        "Ctrl + Alt + Shift + i"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut moves to the next sheet in Google Sheets?",
+      "choices": [
+        "Alt + Up Arrow",
+        "Alt + Down Arrow",
+        "Ctrl + Backspace",
+        "Alt + Shift + k"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to move to the previous sheet in Google Sheets?",
+      "choices": [
+        "Alt + Down Arrow",
+        "Alt + Shift + k",
+        "Alt + Up Arrow",
+        "Ctrl + End"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut displays a list of sheets in Google Sheets?",
+      "choices": [
+        "Alt + Shift + k",
+        "Alt + Enter",
+        "Ctrl + Backspace",
+        "Ctrl + Alt + Shift + i"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to open a hyperlink in Google Sheets?",
+      "choices": [
+        "Ctrl + Backspace",
+        "Alt + Enter",
+        "Ctrl + Alt + Shift + i",
+        "Alt + Shift + k"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut opens the Explore tool in Google Sheets?",
+      "choices": [
+        "Ctrl + Backspace",
+        "Alt + Enter",
+        "Ctrl + Alt + Shift + i",
+        "Ctrl + Home"
+      ],
+      "correctAnswer": 2
+    },
+	{
+      "question": "What is the shortcut to go to the side panel in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + ,",
+        "Ctrl + Alt + .",
+        "Ctrl + Alt + Shift + m",
+        "Ctrl + Alt + r"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut moves focus out of the spreadsheet in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + h",
+        "Ctrl + Alt + r",
+        "Ctrl + Alt + Shift + m",
+        "Alt + Shift + q"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to move to the quicksum feature when a range of cells is selected?",
+      "choices": [
+        "Alt + Shift + q",
+        "Ctrl + Alt + .",
+        "Ctrl + Alt + Shift + h",
+        "Ctrl + Alt + Shift + m"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut moves focus to popups for links, bookmarks, and images?",
+      "choices": [
+        "Ctrl + Alt + r",
+        "Ctrl + Alt + Shift + m",
+        "Holding Ctrl + Alt, press e then p",
+        "Alt + Shift + q"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the drop-down menu on a filtered cell in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + r",
+        "Ctrl + Alt + ,",
+        "Ctrl + Alt + Shift + h",
+        "Ctrl + Alt + ."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut opens the revision history in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + m",
+        "Ctrl + Alt + Shift + h",
+        "Ctrl + \\",
+        "Alt + Shift + q"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to close the drawing editor in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + m",
+        "Shift + Esc",
+        "Alt + Shift + q",
+        "Ctrl + Alt + r"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut formats cells as currency in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + 4",
+        "Ctrl + Shift + 5",
+        "Ctrl + Shift + 6",
+        "Ctrl + \\"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to format cells as a percentage in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + 1",
+        "Ctrl + Shift + 3",
+        "Ctrl + Shift + 5",
+        "Ctrl + Shift + 6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut clears formatting in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + 4",
+        "Ctrl + Shift + 5",
+        "Ctrl + Shift + 6",
+        "Ctrl + \\"
+      ],
+      "correctAnswer": 3
+    },
+	{
+      "question": "What is the shortcut to move to the beginning of a row in Google Sheets?",
+      "choices": [
+        "Ctrl + End",
+        "Ctrl + Home",
+        "Home",
+        "End"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut moves to the beginning of the sheet in Google Sheets?",
+      "choices": [
+        "Ctrl + Home",
+        "Home",
+        "Ctrl + End",
+        "End"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to move to the end of a row in Google Sheets?",
+      "choices": [
+        "Home",
+        "Ctrl + End",
+        "End",
+        "Ctrl + Home"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut moves to the end of the sheet in Google Sheets?",
+      "choices": [
+        "Ctrl + End",
+        "End",
+        "Ctrl + Home",
+        "Ctrl + Backspace"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to scroll to the active cell in Google Sheets?",
+      "choices": [
+        "Ctrl + End",
+        "Ctrl + Backspace",
+        "Alt + Down Arrow",
+        "Alt + Up Arrow"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to move to the next sheet in Google Sheets?",
+      "choices": [
+        "Alt + Down Arrow",
+        "Alt + Up Arrow",
+        "Alt + Shift + k",
+        "Ctrl + Backspace"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut moves to the previous sheet in Google Sheets?",
+      "choices": [
+        "Alt + Shift + k",
+        "Alt + Up Arrow",
+        "Alt + Down Arrow",
+        "Ctrl + Alt + Shift + i"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to display the list of sheets in Google Sheets?",
+      "choices": [
+        "Ctrl + Backspace",
+        "Ctrl + Alt + Shift + i",
+        "Alt + Shift + k",
+        "Alt + Enter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut opens a hyperlink in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + i",
+        "Alt + Enter",
+        "Alt + Shift + k",
+        "Ctrl + Backspace"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to open the Explore tool in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + i",
+        "Ctrl + Backspace",
+        "Alt + Enter",
+        "Alt + Shift + k"
+      ],
+      "correctAnswer": 0
+    },
+	{
+      "question": "What is the shortcut to go to the side panel in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + ,",
+        "Ctrl + Alt + .",
+        "Ctrl + Alt + /",
+        "Ctrl + Alt + Shift + ."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut moves the focus out of the spreadsheet in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + i",
+        "Ctrl + Alt + Shift + m",
+        "Ctrl + Alt + r",
+        "Alt + Shift + m"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to move to quicksum when a range of cells is selected in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + q",
+        "Alt + Shift + q",
+        "Ctrl + Alt + q",
+        "Ctrl + Alt + Shift + q"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How do you move focus to a popup for links, bookmarks, and images in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + m",
+        "Ctrl + Alt + Shift + p",
+        "Ctrl + Alt then e then p",
+        "Alt + Shift + p"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut opens the drop-down menu on a filtered cell in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + m",
+        "Ctrl + Alt + Shift + r",
+        "Ctrl + Alt + r",
+        "Ctrl + Alt + ."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open revision history in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + h",
+        "Ctrl + Shift + h",
+        "Alt + Shift + h",
+        "Ctrl + h"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut closes the drawing editor in Google Sheets?",
+      "choices": [
+        "Ctrl + Esc",
+        "Shift + Esc",
+        "Alt + Esc",
+        "Ctrl + Shift + Esc"
+      ],
+      "correctAnswer": 1
+    },
+	{
+      "question": "What is the shortcut to insert or edit a note in Google Sheets?",
+      "choices": [
+        "Shift + F2",
+        "Ctrl + Alt + m",
+        "Ctrl + Alt + Shift + a",
+        "Ctrl + Alt + e then c"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut is used to insert or edit a comment in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + m",
+        "Shift + F2",
+        "Ctrl + Alt + Shift + a",
+        "Ctrl + Alt + e then c"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to open the comment discussion thread in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + m",
+        "Ctrl + Alt + Shift + a",
+        "Shift + F2",
+        "Ctrl + Alt + e then c"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How do you enter the current comment in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + Shift + a",
+        "Shift + F2",
+        "Ctrl + Alt + e then c",
+        "Ctrl + Alt + m"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which shortcut moves to the next comment in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + e then c",
+        "Ctrl + Alt + Shift + a",
+        "Ctrl + Alt + n then c",
+        "Ctrl + Alt + m"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to move to the previous comment in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + p then c",
+        "Ctrl + Alt + m",
+        "Ctrl + Alt + Shift + a",
+        "Ctrl + Alt + n then c"
+      ],
+      "correctAnswer": 0
+    },
+	{
+      "question": "What is the shortcut to reply to the current comment in Google Sheets?",
+      "choices": [
+        "R",
+        "E",
+        "U",
+        "J"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which shortcut moves to the next comment in Google Sheets?",
+      "choices": [
+        "J",
+        "K",
+        "R",
+        "E"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to move to the previous comment in Google Sheets?",
+      "choices": [
+        "J",
+        "K",
+        "R",
+        "E"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How do you resolve the current comment in Google Sheets?",
+      "choices": [
+        "R",
+        "E",
+        "U",
+        "J"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which shortcut exits the current comment in Google Sheets?",
+      "choices": [
+        "R",
+        "U",
+        "J",
+        "E"
+      ],
+      "correctAnswer": 1
+    },
+	{
+      "question": "What is the shortcut to open the File menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Ctrl + Alt + =",
+        "Alt + f",
+        "Ctrl + Alt + -",
+        "Alt + Shift + f"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to open the Edit menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Alt + Shift + e",
+        "Ctrl + Alt + =",
+        "Alt + e",
+        "Ctrl + Alt + -"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the View menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Alt + Shift + v",
+        "Ctrl + Alt + -",
+        "Alt + v",
+        "Ctrl + Alt + ="
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the Insert menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Alt + Shift + i",
+        "Ctrl + Alt + =",
+        "Alt + i",
+        "Ctrl + Alt + -"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the Format menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Ctrl + Alt + =",
+        "Alt + Shift + o",
+        "Alt + o",
+        "Ctrl + Alt + -"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the Data menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Alt + Shift + d",
+        "Ctrl + Alt + =",
+        "Alt + d",
+        "Ctrl + Alt + -"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the Tools menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Alt + Shift + t",
+        "Ctrl + Alt + =",
+        "Alt + t",
+        "Ctrl + Alt + -"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the Insert menu with cells selected in Google Sheets?",
+      "choices": [
+        "Alt + Shift + i",
+        "Ctrl + Alt + =",
+        "Alt + i",
+        "Ctrl + Alt + -"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to open the Delete menu with cells selected in Google Sheets?",
+      "choices": [
+        "Alt + Shift + d",
+        "Ctrl + Alt + -",
+        "Alt + d",
+        "Ctrl + Alt + ="
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut for the Form menu in Google Sheets when connected to a form using Google Chrome?",
+      "choices": [
+        "Alt + Shift + m",
+        "Ctrl + Alt + m",
+        "Alt + m",
+        "Alt + i"
+      ],
+      "correctAnswer": 2
+    },
+	{
+      "question": "What is the shortcut to open the Add-ons menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Alt + Shift + n",
+        "Ctrl + Shift + n",
+        "Alt + n",
+        "Ctrl + Alt + n"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the Help menu in Google Sheets using Google Chrome?",
+      "choices": [
+        "Ctrl + Alt + h",
+        "Alt + Shift + h",
+        "Alt + h",
+        "Ctrl + Shift + h"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to open the Accessibility menu (when screen reader support is enabled) in Google Sheets using Google Chrome?",
+      "choices": [
+        "Ctrl + Shift + a",
+        "Alt + a",
+        "Ctrl + Alt + a",
+        "Alt + Shift + a"
+      ],
+      "correctAnswer": 1
+    },
+	{
+      "question": "What is the shortcut to hide a row in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + 0",
+        "Ctrl + Shift + 9",
+        "Ctrl + Alt + 9",
+        "Alt + Shift + Right Arrow"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to unhide a row in Google Sheets?",
+      "choices": [
+        "Ctrl + Shift + 0",
+        "Ctrl + Alt + 9",
+        "Ctrl + Shift + 9",
+        "Alt + Shift + Left Arrow"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to hide a column in Google Sheets?",
+      "choices": [
+        "Ctrl + Alt + 9",
+        "Ctrl + Shift + 0",
+        "Ctrl + Alt + 0",
+        "Alt + Shift + Down Arrow"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to unhide a column in Google Sheets?",
+      "choices": [
+        "Alt + Shift + Up Arrow",
+        "Ctrl + Alt + 0",
+        "Ctrl + Shift + 0",
+        "Alt + Shift + Right Arrow"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to group rows or columns in Google Sheets?",
+      "choices": [
+        "Alt + Shift + Up Arrow",
+        "Alt + Shift + Right Arrow",
+        "Ctrl + Alt + 9",
+        "Ctrl + Shift + 9"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the shortcut to ungroup rows or columns in Google Sheets?",
+      "choices": [
+        "Alt + Shift + Down Arrow",
+        "Ctrl + Alt + 0",
+        "Alt + Shift + Left Arrow",
+        "Ctrl + Shift + 0"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the shortcut to expand grouped rows or columns in Google Sheets?",
+      "choices": [
+        "Alt + Shift + Down Arrow",
+        "Alt + Shift + Up Arrow",
+        "Ctrl + Shift + 9",
+        "Ctrl + Alt + 0"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the shortcut to collapse grouped rows or columns in Google Sheets?",
+      "choices": [
+        "Alt + Shift + Down Arrow",
+        "Ctrl + Alt + 9",
+        "Alt + Shift + Up Arrow",
+        "Ctrl + Shift + 0"
+      ],
+      "correctAnswer": 2
+    }
+  ]
