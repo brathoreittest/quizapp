@@ -1,0 +1,582 @@
+[
+  {
+    "question": "What is the inverse command of 'terraform apply'?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform destroy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which command initializes a Terraform workspace?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform apply"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does the 'terraform plan' command do?",
+    "choices": [
+      "Applies the changes required to reach the desired state of the configuration",
+      "Initializes the working directory",
+      "Previews the changes Terraform will make",
+      "Formats the configuration files"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which file defines the providers and backend for a Terraform configuration?",
+    "choices": [
+      "main.tf",
+      "variables.tf",
+      "terraform.tf",
+      "outputs.tf"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the purpose of the 'terraform fmt' command?",
+    "choices": [
+      "Formats the configuration files",
+      "Initializes the working directory",
+      "Applies the changes required to reach the desired state of the configuration",
+      "Previews the changes Terraform will make"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which command upgrades the providers and modules in a Terraform workspace?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform apply"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is stored in the .terraform directory?",
+    "choices": [
+      "Configuration files",
+      "Providers and modules",
+      "State files",
+      "Output values"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which command is used to destroy all resources managed by a Terraform configuration?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform destroy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the purpose of the 'terraform apply' command?",
+    "choices": [
+      "Previews the changes Terraform will make",
+      "Applies the changes required to reach the desired state of the configuration",
+      "Initializes the working directory",
+      "Formats the configuration files"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which file typically contains the variables used in a Terraform configuration?",
+    "choices": [
+      "main.tf",
+      "variables.tf",
+      "terraform.tf",
+      "outputs.tf"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the default backend if no backend block is specified in the terraform block?",
+    "choices": [
+      "AWS S3",
+      "Local backend",
+      "Remote backend",
+      "GCS"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which command is used to initialize a Terraform workspace?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform apply"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does Terraform do first when you run 'terraform init'?",
+    "choices": [
+      "Downloads provider plugins",
+      "Initializes the backend",
+      "Validates the configuration",
+      "Applies the configuration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What must you do if you change a module's source or version?",
+    "choices": [
+      "Run terraform apply",
+      "Run terraform plan",
+      "Re-initialize the configuration or run terraform get",
+      "Run terraform fmt"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where does Terraform download the 'hello' module from?",
+    "choices": [
+      "Local filesystem",
+      "Public Terraform Registry",
+      "AWS S3",
+      "GCS"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What file records the versions and hashes of the providers used in a Terraform run?",
+    "choices": [
+      "main.tf",
+      "variables.tf",
+      "terraform.tf",
+      ".terraform.lock.hcl"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What should you do with the .terraform.lock.hcl file?",
+    "choices": [
+      "Ignore it",
+      "Delete it",
+      "Include it in your version control repository",
+      "Edit it manually"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does Terraform do if the lock file does not exist when initializing a workspace?",
+    "choices": [
+      "Fails the initialization",
+      "Uses the required_providers block to determine the provider version",
+      "Skips provider initialization",
+      "Uses the latest provider version"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What command should you run to validate your Terraform configuration?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform validate"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What message does Terraform print after successful initialization?",
+    "choices": [
+      "Initialization failed",
+      "Terraform has been successfully initialized!",
+      "Configuration is invalid",
+      "Providers not found"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What file is created when you initialize a new Terraform workspace?",
+    "choices": [
+      "main.tf",
+      "variables.tf",
+      ".terraform.lock.hcl",
+      "outputs.tf"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the purpose of the .terraform.lock.hcl file?",
+    "choices": [
+      "To store the project's providers and modules",
+      "To ensure Terraform uses the same provider versions across your team",
+      "To define the variables used in the configuration",
+      "To format the configuration files"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you not do with the .terraform directory?",
+    "choices": [
+      "Store providers and modules",
+      "Check it into version control",
+      "Explore its contents",
+      "Use it for validate, plan, and apply commands"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does Terraform do if the provider versions in the lock file do not match the required_providers block?",
+    "choices": [
+      "Ignores the mismatch",
+      "Prompts you to re-initialize using the -upgrade flag",
+      "Automatically updates the lock file",
+      "Fails the initialization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What command should you run to re-initialize your configuration if you change a module's source or version?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform apply"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does the .terraform directory store?",
+    "choices": [
+      "Configuration files",
+      "Providers and modules",
+      "State files",
+      "Output values"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the hashes in the .terraform.lock.hcl file?",
+    "choices": [
+      "To store configuration variables",
+      "To ensure consistent provider versions",
+      "To format the configuration files",
+      "To validate the configuration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you do if you manually edit the .terraform.lock.hcl file?",
+    "choices": [
+      "Commit the changes to version control",
+      "Re-initialize the workspace",
+      "Run terraform apply",
+      "Avoid manual edits as they may be lost"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What does Terraform use the .terraform directory for during validate, plan, and apply commands?",
+    "choices": [
+      "To store state files",
+      "To store output values",
+      "To refer to the project's providers and modules",
+      "To format the configuration files"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What should you include in your version control repository to ensure consistent Terraform runs?",
+    "choices": [
+      "main.tf",
+      "variables.tf",
+      ".terraform.lock.hcl",
+      "outputs.tf"
+    ],
+    "correctAnswer": 2
+  },
+   {
+    "question": "What does the .terraform/providers directory store?",
+    "choices": [
+      "Configuration files",
+      "Cached versions of providers",
+      "State files",
+      "Output values"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What command do you run to initialize the Terraform workspace?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform apply"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where are the providers saved after running terraform init?",
+    "choices": [
+      "In the main.tf file",
+      "In the .terraform directory",
+      "In the variables.tf file",
+      "In the outputs.tf file"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you do after updating the provider or module versions in your configuration?",
+    "choices": [
+      "Run terraform plan",
+      "Run terraform fmt",
+      "Re-initialize the configuration",
+      "Run terraform apply"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What error might you see if you try to validate your configuration without re-initializing after updating a module version?",
+    "choices": [
+      "Configuration is invalid",
+      "Module version requirements have changed",
+      "Provider not found",
+      "State file missing"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What flag should you use with terraform init to upgrade the provider to the most recent version?",
+    "choices": [
+      "-validate",
+      "-upgrade",
+      "-apply",
+      "-plan"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the directory structure for storing providers in the .terraform directory?",
+    "choices": [
+      "[hostname]/[namespace]/[name]/[version]/[os_arch]",
+      "[name]/[version]/[os_arch]",
+      "[namespace]/[name]/[version]",
+      "[hostname]/[name]/[version]/[os_arch]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What happens if the provider version in the lock file conflicts with the required version in the configuration?",
+    "choices": [
+      "Terraform ignores the conflict",
+      "Terraform prompts you to re-initialize with the -upgrade flag",
+      "Terraform automatically updates the lock file",
+      "Terraform fails the initialization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What command should you run to validate your Terraform configuration?",
+    "choices": [
+      "terraform plan",
+      "terraform fmt",
+      "terraform init",
+      "terraform validate"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What does Terraform do if you attempt to validate, plan, or apply your configuration before re-initializing after updating provider or module versions?",
+    "choices": [
+      "Ignores the changes",
+      "Prompts you to re-initialize",
+      "Automatically re-initializes",
+      "Fails the command"
+    ],
+    "correctAnswer": 1
+  },
+  {
+      "question": "Which file stores provider version constraints in Terraform?",
+      "choices": [
+        ".terraform.lock.hcl",
+        "main.tf",
+        "variables.tf",
+        "outputs.tf"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What command initializes a new or existing Terraform configuration?",
+      "choices": [
+        "terraform apply",
+        "terraform plan",
+        "terraform init",
+        "terraform destroy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which provider is used in the following path: .terraform/providers/registry.terraform.io/hashicorp/random?",
+      "choices": [
+        "AWS",
+        "Random",
+        "Google",
+        "Azure"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What error occurs if a required module argument is missing?",
+      "choices": [
+        "Invalid provider",
+        "Unsupported argument",
+        "Missing required argument",
+        "Duplicate resource"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How do you check the validity of a Terraform configuration?",
+      "choices": [
+        "terraform plan",
+        "terraform fmt",
+        "terraform init",
+        "terraform validate"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What version constraint is used for the random provider in this configuration: 'version = \">= 3.0.1, 3.6.1\"'?",
+      "choices": [
+        ">= 3.0.1, <= 3.6.1",
+        "3.0.1 - 3.6.1",
+        ">= 3.0.1, 3.6.1",
+        "None of the above"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the result of running 'terraform destroy'?",
+      "choices": [
+        "Creates resources defined in the configuration",
+        "Displays the execution plan",
+        "Removes all infrastructure resources",
+        "Formats the Terraform files"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which file lists all the providers used in a Terraform project?",
+      "choices": [
+        "variables.tf",
+        ".terraform.lock.hcl",
+        "main.tf",
+        "providers.tf"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What command removes a workspace and all its infrastructure?",
+      "choices": [
+        "terraform delete",
+        "terraform apply",
+        "terraform destroy",
+        "terraform workspace remove"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which command previews the changes Terraform will make before applying them?",
+      "choices": [
+        "terraform apply",
+        "terraform plan",
+        "terraform init",
+        "terraform destroy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What does Terraform compare to create an execution plan?",
+      "choices": [
+        "Your configuration to the state of your infrastructure",
+        "Your configuration to the AWS account",
+        "Your workspace to your code repository",
+        "Your state to the cloud provider's settings"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which command can you use to automate workflows in CI/CD pipelines?",
+      "choices": [
+        "terraform apply",
+        "terraform init",
+        "terraform plan",
+        "terraform destroy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What platform can you use to manage and execute your Terraform projects with features like remote state and execution?",
+      "choices": [
+        "Community Edition",
+        "GitHub",
+        "HCP Terraform",
+        "AWS"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is a prerequisite for completing this tutorial?",
+      "choices": [
+        "An Azure account",
+        "Familiarity with the Terraform workflow",
+        "An Oracle Cloud account",
+        "A Terraform module"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which command clones the example repository used in this tutorial?",
+      "choices": [
+        "git pull https://github.com/hashicorp/learn-terraform-plan",
+        "git push https://github.com/hashicorp/learn-terraform-plan",
+        "git clone https://github.com/hashicorp/learn-terraform-plan",
+        "git commit https://github.com/hashicorp/learn-terraform-plan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Where is the local module used to create an EC2 instance located?",
+      "choices": [
+        "modules/aws-ec2-instance",
+        "modules/aws-s3-bucket",
+        "local-resources/aws-ec2-instance",
+        "resources/aws-instances"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What version of Terraform is required for this tutorial?",
+      "choices": [
+        "v0.14+",
+        "v1.6+",
+        "v0.12+",
+        "v2.0+"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What utility is required alongside Terraform for this tutorial?",
+      "choices": [
+        "AWS CLI",
+        "kubectl",
+        "jq",
+        "Docker"
+      ],
+      "correctAnswer": 2
+    }
+]
