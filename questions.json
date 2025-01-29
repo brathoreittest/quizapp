@@ -1,87 +1,52 @@
 [
   {
-    "question": "What are the main topics covered in the chapter 'Air, Water, and Weather'?",
-    "choices": [
-      "Air and weather, land breeze and sea breeze, evaporation and condensation",
-      "Water cycle, purification of water, and water storage",
-      "Both A and B",
-      "None of the above"
-    ],
-    "correctAnswer": 2
+    "question": "What is the primary function of the atmosphere?",
+    "choices": ["Protects us from harmful rays of the sun", "Produces oxygen", "Regulates the weather", "Cools the Earth"],
+    "correctAnswer": 0
   },
   {
-    "question": "What is the layer of air surrounding Earth called?",
-    "choices": ["Troposphere", "Stratosphere", "Atmosphere", "Ozone Layer"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What does the atmosphere protect us from?",
-    "choices": ["Harmful rays of the sun", "Cold weather", "Storms", "Oxygen loss"],
+    "question": "Which gases make up the air we breathe?",
+    "choices": ["Nitrogen, oxygen, and carbon dioxide", "Nitrogen, hydrogen, and oxygen", "Oxygen, methane, and carbon dioxide", "Helium, oxygen, and nitrogen"],
     "correctAnswer": 0
   },
   {
     "question": "What is moving air called?",
-    "choices": ["Storm", "Breeze", "Wind", "Cyclone"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What happens when air is heated?",
-    "choices": [
-      "It becomes heavier and sinks",
-      "It becomes lighter and rises up",
-      "It remains the same",
-      "It disappears"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is the aim of Activity 11.1?",
-    "choices": [
-      "To observe what happens when air is cooled",
-      "To observe what happens when air gets heated",
-      "To observe what happens when water is boiled",
-      "To observe the effect of air pressure on bottles"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "question": "In Activity 11.1, what happens to the balloon on the bottle kept in hot water?",
-    "choices": [
-      "It remains the same",
-      "It shrinks",
-      "It blows up as hot air rises",
-      "It bursts"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "question": "Which of the following is NOT listed as a learning goal in the chapter?",
-    "choices": [
-      "Air and weather",
-      "Water purification",
-      "Water storage",
-      "Photosynthesis"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What causes storms according to the text?",
-    "choices": [
-      "Strong winds",
-      "High temperatures",
-      "Heavy rainfall",
-      "Pollution"
-    ],
+    "choices": ["Wind", "Breeze", "Air", "Gale"],
     "correctAnswer": 0
   },
   {
-    "question": "According to the chapter, what makes the air we breathe every day?",
-    "choices": [
-      "Sunlight",
-      "Tiny plants in the ocean",
-      "Clouds",
-      "Wind"
-    ],
-    "correctAnswer": 1
+    "question": "What does the wind speed affect?",
+    "choices": ["The weather", "Air pressure", "Humidity", "Temperature"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What causes storms?",
+    "choices": ["Very strong winds", "Heavy rainfall", "High temperatures", "High humidity"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What happens when air is heated?",
+    "choices": ["It becomes lighter and rises", "It becomes heavier and sinks", "It condenses", "It forms clouds"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the purpose of the activity with hot and cold water?",
+    "choices": ["To observe how air behaves when heated", "To test the effects of pressure", "To observe the water cycle", "To test the properties of balloons"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the balloon's reaction when heated air fills it?",
+    "choices": ["The balloon gets bigger", "The balloon deflates", "The balloon stays the same", "The balloon changes color"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is water vapor?",
+    "choices": ["Invisible mist in the air", "Solid water", "Heavy rain", "Clouds in the sky"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How does water work with air to affect the weather?",
+    "choices": ["By controlling temperature and humidity", "By causing wind", "By making the air heavier", "By forming clouds"],
+    "correctAnswer": 0
   }
 ]
