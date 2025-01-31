@@ -6,7 +6,7 @@ let wrongAnswers = 0;
 
 // List of JSON file URLs
 const jsonFileUrls = [
-    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/airwaterweather.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/AirWaterWeather.json",
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/TheSolarSystem.json",
 ];
 
