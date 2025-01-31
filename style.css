@@ -1,28 +1,59 @@
 /* Center the quiz container */
 body {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f0f0f0; /* Light background color */
 }
 
+/* Chapter title at the top */
+.chapter-title {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Chapter selection buttons */
+.chapter-buttons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.chapter-buttons button {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.chapter-buttons button:hover {
+    background-color: #0056b3;
+}
+
 /* Main quiz container */
 .question-container {
     background-color: #ffffff;
-    padding: 10px;
+    padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 90%;
-    max-width: 80vw;
+    max-width: 800px;
     text-align: center;
 }
 
 /* Question text */
 #question {
-    font-size: 3em; /* Larger font size for the question */
+    font-size: 1.8em;
     margin-bottom: 20px;
 }
 
@@ -34,7 +65,7 @@ body {
 
 #choices li {
     margin: 10px 0;
-    font-size: 1.3em; /* Slightly larger font for the choices */
+    font-size: 1.3em;
     padding: 10px;
     background-color: #007bff;
     color: white;
@@ -50,14 +81,14 @@ body {
 /* Feedback text */
 #feedback {
     margin-top: 20px;
-    font-size: 1.3em; /* Slightly larger font for feedback */
+    font-size: 1.3em;
     font-weight: bold;
 }
 
 /* Next button */
 #next-btn {
     margin-top: 20px;
-    font-size: 1.2em; /* Slightly larger font for the button */
+    font-size: 1.2em;
     padding: 10px 20px;
     background-color: #28a745;
     color: white;
@@ -73,7 +104,7 @@ body {
 
 /* Result section */
 #result {
-    font-size: 3em; /* Larger font size for the final result */
+    font-size: 2em;
     color: #333;
     font-weight: bold;
 }

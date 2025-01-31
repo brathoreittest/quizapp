@@ -7,6 +7,9 @@
     <title>Quiz App</title>
     <style>
         body { font-family: Arial, sans-serif; }
+        .chapter-title { text-align: center; font-size: 1.5em; font-weight: bold; margin-top: 20px; }
+        .chapter-buttons { text-align: center; margin-bottom: 20px; }
+        .chapter-buttons button { margin: 5px; padding: 10px; }
         .question-container { margin: 20px; }
         .choices { list-style-type: none; padding: 0; }
         .choices li { margin: 10px 0; }
@@ -15,6 +18,10 @@
     </style>
 </head>
 <body>
+    <div class="chapter-title" id="chapter-title">Select a Chapter</div>
+    <div class="chapter-buttons">
+        <!-- Buttons will be dynamically added here -->
+    </div>
     <div class="question-container">
         <div id="question"></div>
         <ul class="choices" id="choices"></ul>
