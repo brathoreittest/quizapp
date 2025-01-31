@@ -1,1 +1,302 @@
-
+[
+  {
+    "question": "What causes the time difference between various countries?",
+    "choices": ["Earth's rotation around the Sun", "Earth's revolution around the Sun", "The shape of the Earth", "The distance between the countries"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How does the Earth receive light and heat?",
+    "choices": ["From the Moon", "From the Sun", "From other planets", "From the atmosphere"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the shape of the Earth's path around the Sun?",
+    "choices": ["Elliptical", "Circular", "Oval", "Spiral"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How many planets revolve around the Sun in the Solar System?",
+    "choices": ["Six", "Seven", "Eight", "Nine"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the main source of energy in the entire solar system?",
+    "choices": ["The Earth", "The Moon", "The Sun", "The stars"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a planet?",
+    "choices": ["A small object that moves around a star", "A large spherical object that revolves around a star", "A large spherical object that generates light", "A star that moves around the Earth"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why do planets appear shiny?",
+    "choices": ["Because they emit light", "Because they reflect light from their star", "Because they are made of shiny materials", "Because of their size"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is NOT a planet in the Solar System?",
+    "choices": ["Mars", "Neptune", "Moon", "Jupiter"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a natural satellite?",
+    "choices": ["A planet", "A star", "A heavenly body revolving around a planet", "A comet"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where is the Sun located in the Solar System?",
+    "choices": ["At the center", "At the edge", "Near Mars", "Near Earth"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are the two main movements of the Earth?",
+    "choices": ["Rotation and Revolution", "Translation and Rotation", "Spin and Revolution", "Axis and Equator"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is Earth's rotation?",
+    "choices": ["The spinning motion of Earth on its axis", "The movement of Earth around the Sun", "The movement of Earth around the Moon", "The movement of Earth's plates"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Where is the Earth's axis located?",
+    "choices": ["From the North Pole to the South Pole", "From the equator to the poles", "From the Sun to the Moon", "From the Earth to the Sun"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "At what angle is Earth's axis tilted?",
+    "choices": ["15 degrees", "23.5 degrees", "45 degrees", "90 degrees"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How long does it take for Earth to complete one rotation on its axis?",
+    "choices": ["12 hours", "24 hours", "48 hours", "365 days"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why does Earth have day and night?",
+    "choices": ["Because of its rotation on its axis", "Because of its revolution around the Sun", "Because of its tilt towards the Sun", "Because of the Moon's rotation"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What happens when one half of the Earth faces the Sun?",
+    "choices": ["It is day on that side", "It is night on that side", "It is winter on that side", "It is summer on that side"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When it is daytime in India, what time is it in the USA?",
+    "choices": ["Daytime", "Nighttime", "Morning", "Evening"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does the red mark on the globe in the activity represent?",
+    "choices": ["A place on Earth that faces the Sun", "A place on Earth that faces away from the Sun", "A place on Earth in the Northern Hemisphere", "A place on Earth in the Southern Hemisphere"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the equator?",
+    "choices": ["An imaginary line dividing the Earth into Northern and Southern Hemispheres", "An imaginary line dividing the Earth into day and night", "A line marking the tilt of the Earth", "The line where the Sun's rays are most direct"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the Moon?",
+    "choices": ["Earth's natural satellite", "A planet in the solar system", "A star", "A comet"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why do we not feel hot when standing outside in the moonlight?",
+    "choices": ["Because the moon has no light of its own", "Because the moon reflects the Sun's heat", "Because the moon is cooler than Earth", "Because the moon absorbs sunlight"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the Moon made of?",
+    "choices": ["Hot gases", "Rocks", "Water", "Ice"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which planet is Earth's natural satellite?",
+    "choices": ["The Moon", "Mars", "Venus", "Jupiter"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the primary reason we feel hot in the sunlight?",
+    "choices": ["Because the Sun is made of hot gases", "Because the Earth absorbs heat", "Because the Moon reflects heat", "Because of Earth's atmosphere"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is Karva Chauth?",
+    "choices": ["A festival to celebrate the Moon in India", "A festival for the Sun", "A festival for the planets", "A festival to worship the Earth"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet is the largest in the solar system?",
+    "choices": ["Earth", "Jupiter", "Saturn", "Uranus"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which planet is known as the morning star?",
+    "choices": ["Mars", "Venus", "Saturn", "Mercury"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which planet is known as the red planet?",
+    "choices": ["Mars", "Earth", "Neptune", "Venus"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet has seven prominent rings around it?",
+    "choices": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who was the first human to land on the moon?",
+    "choices": ["Neil Armstrong", "Kalpana Chawla", "Rakesh Sharma", "Yuri Gagarin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When did Neil Armstrong land on the moon?",
+    "choices": ["20 July 1969", "12 August 1970", "14 July 1968", "21 July 1971"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who was the first woman of Indian origin to go into space?",
+    "choices": ["Sally Ride", "Kalpana Chawla", "Indira Gandhi", "Sunita Williams"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are artificial satellites?",
+    "choices": ["Human-made objects revolving around Earth and other planets", "Natural satellites like the Moon", "Stars in the sky", "Comets that pass by Earth"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is one use of artificial satellites?",
+    "choices": ["Studying Earth or other planets", "Providing Wi-Fi to the Earth", "Creating lunar dust", "Controlling the weather on Earth"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who was the first Indian to go into space?",
+    "choices": ["Rakesh Sharma", "Kalpana Chawla", "Srinivasa Ramanujan", "Yuri Gagarin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the primary purpose of artificial satellites in space?",
+    "choices": ["Studying Earth and weather forecasting", "Creating artificial moons", "Transporting humans", "Defending against asteroids"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Where do astronauts go in special spaceships?",
+    "choices": ["The Moon", "Mars", "Space", "The International Space Station"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What did artificial satellites help with?",
+    "choices": ["Weather forecasting", "Running the space station", "Helping astronauts breathe", "Cooking in space"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which country’s space agency is known as NASA?",
+    "choices": ["India", "USA", "Russia", "China"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the path called in which the Earth moves around the Sun?",
+    "choices": ["Orbit", "Circle", "Pathway", "Rotation"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How long does it take for the Earth to complete one revolution around the Sun?",
+    "choices": ["365 days and 6 hours", "360 days", "365 days", "366 days"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What causes the change of seasons on Earth?",
+    "choices": ["The revolution of the Earth", "The Earth's rotation", "The Moon's movement", "The Sun's temperature fluctuations"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What happens when one of Earth's hemispheres is tilted towards the Sun?",
+    "choices": ["It experiences summer", "It experiences winter", "It experiences spring", "It experiences autumn"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which hemisphere experiences summer when the Northern Hemisphere is tilted towards the Sun?",
+    "choices": ["Southern Hemisphere", "Northern Hemisphere", "Eastern Hemisphere", "Western Hemisphere"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When the Northern Hemisphere is tilted away from the Sun, what season does it experience?",
+    "choices": ["Winter", "Summer", "Autumn", "Spring"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which country lies in the Southern Hemisphere?",
+    "choices": ["New Zealand", "India", "USA", "Canada"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When New Zealand has summer, what season does India have?",
+    "choices": ["Winter", "Summer", "Autumn", "Spring"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What causes the transition between short seasons like autumn and spring?",
+    "choices": ["The gradual movement of the Earth around the Sun", "The Earth's tilt", "The change in Earth's rotation", "The Sun's rays"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the position called when one end or side is higher than the other?",
+    "choices": ["Tilted", "Rotated", "Revolved", "Inclined"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "choices": ["Mercury", "Venus", "Earth", "Mars"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the hottest planet in the solar system?",
+    "choices": ["Venus", "Mars", "Earth", "Mercury"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which planet is known as the 'morning star' or 'evening star'?",
+    "choices": ["Venus", "Earth", "Mars", "Jupiter"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet is the largest rocky planet?",
+    "choices": ["Earth", "Mars", "Venus", "Mercury"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet is known as the 'red planet'?",
+    "choices": ["Mars", "Earth", "Venus", "Mercury"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the largest planet in the solar system?",
+    "choices": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet has the fastest spinning motion?",
+    "choices": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which planet has seven prominent rings?",
+    "choices": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet rotates sideways like a rolling ball?",
+    "choices": ["Uranus", "Neptune", "Saturn", "Mars"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet is known as the windiest of all the planets?",
+    "choices": ["Neptune", "Uranus", "Jupiter", "Saturn"],
+    "correctAnswer": 0
+  }
+]
