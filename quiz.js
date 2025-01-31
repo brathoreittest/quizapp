@@ -12,7 +12,7 @@ async function loadQuestions() {
         console.log(allQuestions);
 
         // Randomly select 10 questions
-        questions = getRandomQuestions(allQuestions, 20);
+        questions = getRandomQuestions(allQuestions, 30);
 
         showQuestion();
     } catch (error) {
