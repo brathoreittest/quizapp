@@ -7,7 +7,7 @@ let wrongAnswers = 0;
 // List of JSON file URLs
 const jsonFileUrls = [
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/airwaterweather.json",
-    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/old_questions.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/TheSolarSystem.json",
 ];
 
 // Function to extract the filename from a URL
