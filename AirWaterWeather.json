@@ -1,422 +1,378 @@
 [
   {
-    "question": "What is the primary function of the atmosphere?",
-    "choices": ["Regulates the weather", "Cools the Earth", "Produces oxygen", "Protects us from harmful rays of the sun"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "Which gases make up the air we breathe?",
-    "choices": ["Oxygen, methane, and carbon dioxide", "Nitrogen, oxygen, and carbon dioxide", "Helium, oxygen, and nitrogen", "Nitrogen, hydrogen, and oxygen"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is moving air called?",
-    "choices": ["Gale", "Wind", "Breeze", "Air"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What does the wind speed affect?",
-    "choices": ["Temperature", "Humidity", "The weather", "Air pressure"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What causes storms?",
-    "choices": ["High humidity", "Very strong winds", "Heavy rainfall", "High temperatures"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What happens when air is heated?",
-    "choices": ["It becomes heavier and sinks", "It forms clouds", "It becomes lighter and rises", "It condenses"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What is the purpose of the activity with hot and cold water?",
-    "choices": ["To observe the water cycle", "To test the properties of balloons", "To observe how air behaves when heated", "To test the effects of pressure"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What is the balloon's reaction when heated air fills it?",
-    "choices": ["The balloon deflates", "The balloon stays the same", "The balloon gets bigger", "The balloon changes color"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What is water vapor?",
-    "choices": ["Clouds in the sky", "Invisible mist in the air", "Solid water", "Heavy rain"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "How does water work with air to affect the weather?",
-    "choices": ["By forming clouds", "By causing wind", "By controlling temperature and humidity", "By making the air heavier"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What happens to the bowl with soil when left under the sun?",
-    "choices": ["It heats up slower than the bowl with water", "It gets warmer than the bowl with water", "It stays cooler than the bowl with water", "It cools faster than the bowl with water"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Which bowl cools faster when placed under a fan?",
-    "choices": ["The bowl with water", "Both bowls cool at the same rate", "The bowl with soil", "Neither bowl cools"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "Why does the land heat up faster than the sea?",
-    "choices": ["Land has a higher thermal capacity", "Land heats up faster and loses heat quicker", "Sea absorbs heat slower than land", "Water retains heat better"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is the cause of a sea breeze?",
-    "choices": ["The land and sea cool at the same rate", "The land heats up faster than the sea, causing cool air from the sea to rush in", "The sea heats up faster than the land, causing warm air to rush in", "The air above the sea is cooler than the air above the land"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "When does a land breeze occur?",
-    "choices": ["At night, when the land cools faster than the sea", "During the day, when the sea cools faster than the land", "At night, when the sea cools faster than the land", "During the day, when the land heats faster than the sea"],
+    "question": "What are some daily uses of water?",
+    "choices": [
+      "Drinking, bathing, washing, cleaning, watering plants",
+      "Cooking, swimming, irrigation, industrial processes",
+      "Transportation, recreation, hydroelectric power generation",
+      "All of the above"
+    ],
     "correctAnswer": 0
   },
   {
-    "question": "What is formed when water vapour condenses and falls to the ground?",
-    "choices": ["Dew", "Rain", "Frost", "Snow"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What are dew drops?",
-    "choices": ["Frozen water vapour", "Water vapour that condenses on surfaces of plants", "Tiny water droplets that fall from clouds", "Water that evaporates during the night"],
+    "question": "Which of the following is NOT a source of water for human use?",
+    "choices": [
+      "Wells",
+      "Tube wells",
+      "Lakes",
+      "Mountains"
+    ],
     "correctAnswer": 3
   },
   {
-    "question": "What is fog formed from?",
-    "choices": ["Water vapour evaporating in warm weather", "Water droplets freezing on cold surfaces", "Water vapour condensing on dust particles", "Snow forming in cold places"],
+    "question": "What is the process of transforming liquid water into water vapor called?",
+    "choices": [
+      "Condensation",
+      "Precipitation",
+      "Evaporation",
+      "Transpiration"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What is frost?",
-    "choices": ["Water vapour condensing on plants", "Water vapour freezing on cold objects", "Snow falling during winter", "Water vapour evaporating in cold air"],
+    "question": "What are three key factors that influence evaporation?",
+    "choices": [
+      "Sun's heat, water surface area, air presence",
+      "Wind speed, humidity, temperature",
+      "Rainfall, cloud cover, altitude",
+      "None of the above"
+    ],
     "correctAnswer": 0
   },
   {
-    "question": "In which weather condition does snow form?",
-    "choices": ["Rainy weather", "Extremely cold weather", "Humid weather", "Warm weather"],
+    "question": "In the activity described, where did more water evaporate?",
+    "choices": [
+      "The bowl placed in the sun",
+      "The bowl placed in the room",
+      "Both bowls evaporated the same amount",
+      "It is impossible to tell"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "What is the change of water vapor into water called?",
+    "choices": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Sublimation"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "Which of the following is NOT a form of condensation?",
-    "choices": ["Dew", "Lightning", "Frost", "Clouds"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What is the process of transforming liquid water into water vapour called?",
-    "choices": ["Condensation", "Sublimation", "Evaporation", "Precipitation"],
+    "question": "What is the amount of water vapor in the air called?",
+    "choices": [
+      "Temperature",
+      "Pressure",
+      "Humidity",
+      "Density"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What is the gaseous state of water called?",
-    "choices": ["Steam", "Water droplets", "Fog", "Water vapour"],
+    "question": "In the activity described, what happens to the steel glass after ice cubes are added to the water?",
+    "choices": [
+      "It remains dry",
+      "It becomes wet with tiny water droplets",
+      "It becomes warmer",
+      "It breaks"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "What happens to water when it evaporates?",
-    "choices": ["It turns into ice", "It turns into water vapour", "It becomes a solid", "It freezes into snow"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "Which of the following factors influence the process of evaporation?",
-    "choices": ["Sun's heat", "Amount of water", "All of the above", "Air pressure"],
+    "question": "What forms when water vapor condenses on cold objects on very cold nights?",
+    "choices": [
+      "Dew",
+      "Fog",
+      "Rain",
+      "Frost"
+    ],
     "correctAnswer": 3
   },
   {
-    "question": "In the activity, what happens to the water level in the bowl placed in the sun?",
-    "choices": ["The water level increases", "The water level decreases", "The bowl breaks", "The water level remains the same"],
+    "question": "What is the form of precipitation that occurs when water droplets freeze in extremely cold weather?",
+    "choices": [
+      "Rain",
+      "Dew",
+      "Snow",
+      "Fog"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "Which bowl had more evaporation in the experiment?",
-    "choices": ["The bowl placed inside the room", "The bowl placed in the sun", "Neither bowl had any evaporation", "Both had the same evaporation"],
+    "question": "What causes rainfall according to the text?",
+    "choices": [
+      "The movement of clouds",
+      "Continuous evaporation and condensation",
+      "The cooling of the atmosphere",
+      "The pressure of water vapor"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "What effect does the sun's heat have on the rate of evaporation?",
-    "choices": ["It completely stops evaporation", "It has no effect on evaporation", "It increases the rate of evaporation", "It decreases the rate of evaporation"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "Where does water come from for our daily use?",
-    "choices": ["Only from lakes", "Wells, tube wells, lakes, ponds, rivers, underground reservoirs", "Only from rivers", "Only from underground reservoirs"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is the main source of rainwater that fills water bodies?",
-    "choices": ["Ocean water", "The sun", "Evaporation and condensation", "Rain from clouds"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What is the main conclusion from the activity on evaporation?",
-    "choices": ["Water evaporates faster in the shade", "Water does not evaporate at all", "Water evaporates at the same rate in both conditions", "Water evaporates faster when exposed to the sun"],
-    "correctAnswer": 3
+    "question": "What happens to water vapor as it rises?",
+    "choices": [
+      "It gets warmer",
+      "It condenses into tiny water droplets",
+      "It disappears",
+      "It becomes heavier"
+    ],
+    "correctAnswer": 1
   },
   {
     "question": "What is the continuous movement of water between the earth's surface and the atmosphere called?",
-    "choices": ["The water cycle", "The evaporation process", "Condensation", "Precipitation"],
-    "correctAnswer": 1
+    "choices": [
+      "The water cycle",
+      "Evaporation",
+      "Condensation",
+      "Precipitation"
+    ],
+    "correctAnswer": 0
   },
   {
-    "question": "Where does rainwater collect after it falls to the earth?",
-    "choices": ["In ponds, rivers, lakes, and oceans", "In underground reservoirs", "In clouds", "In the soil's surface only"],
-    "correctAnswer": 2
+    "question": "Where does some rainwater go after it falls on the earth's surface?",
+    "choices": [
+      "Only into rivers and oceans",
+      "Into streams, ponds, lakes, rivers, seas, oceans, and is absorbed by the soil",
+      "Only into the atmosphere",
+      "Only into underground reservoirs"
+    ],
+    "correctAnswer": 1
   },
   {
     "question": "What is groundwater?",
-    "choices": ["Water collected under the soil's surface", "Rainwater collected in rivers", "Water stored in clouds", "Water stored in oceans"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "Why is rainwater sometimes not safe for drinking?",
-    "choices": ["It gets mixed with pollutants", "It evaporates too quickly", "It is too salty", "It lacks nutrients"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "How do poisonous gases affect rainwater?",
-    "choices": ["They mix with rainwater and make it dirty", "They make the rainwater evaporate faster", "They cause the rain to become acidic", "They help purify the water"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What makes water from water bodies unfit for drinking?",
-    "choices": ["Soluble and insoluble impurities and germs", "The lack of sunlight", "The excess of minerals", "The high temperature"],
+    "choices": [
+      "Water that flows on the surface",
+      "Water that seeps into the soil and collects underground",
+      "Water that is found in clouds",
+      "Water that has been purified"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "How does polluted water affect water bodies?",
-    "choices": ["It contaminates them", "It purifies them", "It increases the water level", "It makes the water colder"],
+    "question": "Why is rainwater not always safe to drink?",
+    "choices": [
+      "It is always pure",
+      "It can contain soluble and insoluble impurities and germs",
+      "It is always too cold",
+      "It lacks essential minerals"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What causes rainfall according to the text?",
+    "choices": [
+      "The movement of rivers",
+      "Continuous evaporation and condensation",
+      "Clouds cooling down",
+      "The collection of water in lakes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What happens to water vapor as it rises?",
+    "choices": [
+      "It becomes warmer",
+      "It evaporates further",
+      "It cools down and condenses",
+      "It disappears"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What is the first step in the water cycle?",
-    "choices": ["Evaporation", "Condensation", "Precipitation", "Collection"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What causes rainfall in nature?",
-    "choices": ["Continuous evaporation and condensation", "Water rising from the ocean", "Clouds cooling", "Sun's heat"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What happens to water vapour as it rises into the atmosphere?",
-    "choices": ["It cools down and condenses into tiny droplets", "It turns into clouds", "It evaporates further", "It forms rain immediately"],
+    "question": "What is the continuous movement of water between the earth's surface and the atmosphere called?",
+    "choices": [
+      "The rain cycle",
+      "The water cycle",
+      "The evaporation cycle",
+      "The condensation cycle"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "What happens when clouds become heavy and cannot hold water anymore?",
-    "choices": ["The water falls down as rain", "The clouds dissipate", "The water evaporates", "The water turns into fog"],
+    "question": "Where does some rainwater go after it falls on the earth's surface?",
+    "choices": [
+      "Only into rivers and oceans",
+      "Only into the atmosphere",
+      "Into streams, ponds, lakes, rivers, seas, oceans, and is absorbed by the soil",
+      "Nowhere, it evaporates immediately"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What is the water cycle?",
-    "choices": ["The continuous movement of water between earth's surface and the atmosphere", "The process of water evaporating", "The movement of water in rivers", "The process of rain forming clouds"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is the source of groundwater?",
-    "choices": ["Rainwater that seeps into the soil", "Water evaporating from lakes", "Water from oceans", "Water from underground springs"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What makes water unfit for drinking?",
-    "choices": ["Soluble and insoluble impurities and germs", "High levels of minerals", "Excessive evaporation", "Lack of oxygen"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is the first step of the water cycle?",
-    "choices": ["Evaporation", "Condensation", "Precipitation", "Collection"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What happens when rainwater reaches the earth's surface?",
-    "choices": ["It can either flow into water bodies or be absorbed into the soil", "It evaporates again", "It gets absorbed by the atmosphere", "It turns into fog"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What happens to rainwater when poisonous gases mix with it?",
-    "choices": ["It becomes polluted", "It becomes more pure", "It turns into snow", "It causes floods"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Why is water from water bodies not safe for drinking?",
-    "choices": ["It contains soluble and insoluble impurities and germs", "It is too salty", "It is too hot", "It evaporates too quickly"],
+    "question": "What is the water that seeps into the soil and collects underground called?",
+    "choices": [
+      "Surface water",
+      "River water",
+      "Groundwater",
+      "Rainwater"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What is the process called when water vapour cools and becomes water again?",
-    "choices": ["Condensation", "Evaporation", "Precipitation", "Transpiration"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What is the amount of water vapour in the air called?",
-    "choices": ["Humidity", "Dew", "Fog", "Cloudiness"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What do we observe when water vapour condenses on a cool surface?",
-    "choices": ["Tiny droplets of water", "Water droplets freeze", "The surface becomes dry", "The surface gets hotter"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What happens to the steel glass when ice cubes are added to the water?",
-    "choices": ["Tiny droplets of water appear on the outer surface", "The glass becomes dry", "The glass heats up", "The glass turns into ice"],
+    "question": "What can make rainwater dirty?",
+    "choices": [
+      "The sun's heat",
+      "Clouds",
+      "Poisonous gases from vehicles and factories",
+      "Evaporation"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What is the primary function of the atmosphere?",
-    "choices": ["Protects us from harmful rays of the sun", "Produces oxygen", "Regulates the weather", "Cools the Earth"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "Which gases make up the air we breathe?",
-    "choices": ["Nitrogen, oxygen, and carbon dioxide", "Nitrogen, hydrogen, and oxygen", "Oxygen, methane, and carbon dioxide", "Helium, oxygen, and nitrogen"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is moving air called?",
-    "choices": ["Wind", "Breeze", "Air", "Gale"],
+    "question": "Is water from water bodies safe for drinking according to the text?",
+    "choices": [
+      "Yes, always",
+      "Yes, if it is purified",
+      "No, it contains impurities and germs",
+      "It depends on the location"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "What does the wind speed affect?",
-    "choices": ["The weather", "Air pressure", "Humidity", "Temperature"],
+    "question": "According to Activity 11.4, which handkerchief dried faster?",
+    "choices": [
+      "The crumpled handkerchief",
+      "The spread-out handkerchief"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "What causes storms?",
-    "choices": ["Very strong winds", "Heavy rainfall", "High temperatures", "High humidity"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What happens when air is heated?",
-    "choices": ["It becomes lighter and rises", "It becomes heavier and sinks", "It condenses", "It forms clouds"],
+    "question": "What factor is shown to increase the rate of evaporation in Activity 11.4?",
+    "choices": [
+      "Smaller surface area",
+      "Larger surface area exposed to the atmosphere"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "What is the purpose of the activity with hot and cold water?",
-    "choices": ["To observe how air behaves when heated", "To test the effects of pressure", "To observe the water cycle", "To test the properties of balloons"],
+    "question": "In Activity 11.5, where did the handkerchief dry faster?",
+    "choices": [
+      "In a room without a fan",
+      "Under a fan"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the effect of air on the evaporation of water, as demonstrated in Activity 11.5?",
+    "choices": [
+      "Air has no effect on evaporation",
+      "Air increases the rate of evaporation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Based on the activities, where would evaporation be faster: a shallow lake or a deep well?",
+    "choices": [
+      "A deep well",
+      "A shallow lake"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Does land and water heat up equally under the sun?",
+    "choices": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In the experiment, which bowl heated up faster?",
+    "choices": [
+      "The bowl with water",
+      "The bowl with soil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which bowl cooled down faster when placed under a fan?",
+    "choices": [
+      "The bowl with water",
+      "The bowl with soil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During the daytime, the wind in coastal areas blows from:",
+    "choices": [
+      "Land to sea",
+      "Sea to land"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "This daytime wind from sea to land is called:",
+    "choices": [
+      "Land breeze",
+      "Sea breeze"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "At night, the wind in coastal areas blows from:",
+    "choices": [
+      "Land to sea",
+      "Sea to land"
+    ],
     "correctAnswer": 0
   },
   {
-    "question": "What is the balloon's reaction when heated air fills it?",
-    "choices": ["The balloon gets bigger", "The balloon deflates", "The balloon stays the same", "The balloon changes color"],
-    "correctAnswer": 0
+    "question": "The nighttime wind from land to sea is called:",
+    "choices": [
+      "Sea breeze",
+      "Land breeze"
+    ],
+    "correctAnswer": 1
   },
   {
-    "question": "What is water vapor?",
-    "choices": ["Invisible mist in the air", "Solid water", "Heavy rain", "Clouds in the sky"],
+    "question": "What is the thick layer of air surrounding Earth called?",
+    "choices": [
+      "Hydrosphere",
+      "Atmosphere",
+      "Lithosphere",
+      "Biosphere"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the main gases that make up air?",
+    "choices": [
+      "Hydrogen, Helium, and Neon",
+      "Nitrogen, Oxygen, and Carbon Dioxide",
+      "Chlorine, Fluorine, and Bromine",
+      "Methane, Ethane, and Propane"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What happens to air when it is heated?",
+    "choices": [
+      "It becomes heavier and sinks.",
+      "It becomes lighter and rises.",
+      "It remains unchanged.",
+      "It condenses into liquid."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does the atmosphere protect us from?",
+    "choices": [
+      "Rain",
+      "Wind",
+      "Harmful rays of the sun",
+      "Earthquakes"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "How does water work with air to affect the weather?",
-    "choices": ["By controlling temperature and humidity", "By causing wind", "By making the air heavier", "By forming clouds"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What happens to the bowl with soil when left under the sun?",
-    "choices": ["It gets warmer than the bowl with water", "It stays cooler than the bowl with water", "It heats up slower than the bowl with water", "It cools faster than the bowl with water"],
+    "question": "According to the text, what is moving air called?",
+    "choices": [
+      "Current",
+      "Stream",
+      "Wind",
+      "Gust"
+    ],
     "correctAnswer": 2
-  },
-  {
-    "question": "Which bowl cools faster when placed under a fan?",
-    "choices": ["The bowl with soil", "The bowl with water", "Both bowls cool at the same rate", "Neither bowl cools"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Why does the land heat up faster than the sea?",
-    "choices": ["Land heats up faster and loses heat quicker", "Water retains heat better", "Land has a higher thermal capacity", "Sea absorbs heat slower than land"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is the cause of a sea breeze?",
-    "choices": ["The land heats up faster than the sea, causing cool air from the sea to rush in", "The sea heats up faster than the land, causing warm air to rush in", "The air above the sea is cooler than the air above the land", "The land and sea cool at the same rate"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "When does a land breeze occur?",
-    "choices": ["At night, when the land cools faster than the sea", "During the day, when the sea cools faster than the land", "At night, when the sea cools faster than the land", "During the day, when the land heats faster than the sea"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "How does the temperature above the sea compare to that above the land at night?",
-    "choices": ["The air above the sea is warmer than the air above the land", "The air above the land is warmer than the air above the sea", "The air above both land and sea is the same", "The temperature difference is negligible"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is the cause of the wind blowing from the land to the sea at night?",
-    "choices": ["The cool air from the land rushes towards the sea", "The warm air from the sea rises up", "The temperature difference between the land and sea", "The sea absorbs heat during the night"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "How does the climate in coastal areas differ from that in plains or hilly regions?",
-    "choices": ["Coastal areas have more humidity and milder temperatures", "Coastal areas have cooler temperatures and less humidity", "Coastal areas are warmer and drier", "Plains and hilly regions have more humidity than coastal areas"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What factors influence the weather in coastal areas?",
-    "choices": ["The difference in temperature between land and sea", "Wind direction", "Humidity", "All of the above"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What happens when a larger surface is exposed to the atmosphere during evaporation?",
-    "choices": ["Evaporation occurs faster", "Evaporation occurs slower", "Evaporation doesn't happen", "Evaporation remains constant"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Why does a handkerchief spread out in the sun dry faster?",
-    "choices": ["It has a larger surface exposed to the atmosphere", "It absorbs more water", "It is made of thinner fabric", "It is placed in a warmer area"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "Which type of water bodies experience faster evaporation?",
-    "choices": ["Shallow lakes with large exposed surfaces", "Deep lakes with small exposed surfaces", "Cold, deep wells", "Ponds with small exposed surfaces"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is the impact of air on the evaporation process?",
-    "choices": ["Air speeds up the evaporation", "Air slows down the evaporation", "Air has no effect on evaporation", "Air causes the evaporation to stop"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "Which handkerchief dries faster when placed under a fan?",
-    "choices": ["The one under the fan", "The one in a room without a fan", "Both dry at the same rate", "Neither dries"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What causes wet clothes to dry faster on a windy day?",
-    "choices": ["Air helps evaporate water more quickly", "Wind cools the clothes", "The wind keeps the clothes warmer", "Wind increases the sunlight exposure"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What can be concluded about the effect of surface area on evaporation?",
-    "choices": ["Larger surface area leads to faster evaporation", "Smaller surface area leads to faster evaporation", "Surface area has no effect on evaporation", "The material of the surface determines the evaporation rate"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What happens when water evaporates from a shallow lake compared to a deep lake?",
-    "choices": ["Water evaporates faster from shallow lakes", "Water evaporates slower from shallow lakes", "Water evaporates faster from deep lakes", "Water evaporates at the same rate in both"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "Why does a handkerchief crumpled into a ball dry slower than a spread-out one?",
-    "choices": ["It has less surface area exposed to the atmosphere", "It absorbs less water", "It is made of thicker fabric", "It is placed in a cooler environment"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "How does air contribute to the drying of clothes?",
-    "choices": ["It promotes evaporation", "It cools the clothes", "It prevents evaporation", "It keeps the clothes moist"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What causes rainfall in nature?",
-    "choices": ["Continuous evaporation and condensation", "Clouds gathering together", "Earth's surface cooling", "Water flowing into seas"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What happens when clouds become big and heavy?",
-    "choices": ["They release rain", "They form new clouds", "They dissipate", "They cause storms"],
-    "correctAnswer": 3
   }
 ]
