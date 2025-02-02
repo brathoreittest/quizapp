@@ -9,6 +9,7 @@ const jsonFileUrls = [
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/AirWaterWeather.json",
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/TheSolarSystem.json",
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/AnimalReproduction.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/TeethDigestion.json",
 ];
 
 // Function to extract the filename from a URL
