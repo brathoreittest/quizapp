@@ -27,7 +27,7 @@ cat > "$TEMP_JSON" << EOF
 EOF
 
 
-RESPONSE=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDppd5Y238A_VQtsCL2ZoZLo2bjNRx81AM" \
+RESPONSE=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=$apikey" \
     -H 'Content-Type: application/json' \
     -X POST \
     -d "@$TEMP_JSON")
