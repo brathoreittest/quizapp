@@ -1,0 +1,2499 @@
+[
+  {
+    "question": "What is the longest written constitution in the world?",
+    "choices": [
+      "The US Constitution",
+      "The Indian Constitution",
+      "The UK Constitution",
+      "The Canadian Constitution"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'Sovereign' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India is ruled by a monarch",
+      "India is dependent on other countries",
+      "India is independent and free to govern itself",
+      "India's government is elected by its people"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does 'Socialist' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India's economy is based on socialism",
+      "India holds and treats all people equally",
+      "India's government is controlled by a single party",
+      "India has a classless society"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'Secular' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India has a state religion",
+      "India considers all religions equal",
+      "India favors certain religions over others",
+      "Religion is not allowed in India"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'Democratic' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India's government is ruled by a dictator",
+      "India's government is elected by its people",
+      "India has no elections",
+      "India's government is appointed by the military"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'Republic' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India is ruled by a king or queen",
+      "India is governed by elected representatives of the people",
+      "India has no head of state",
+      "India's government is controlled by a religious leader"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When did the Indian Constitution come into effect?",
+    "choices": [
+      "January 26, 1947",
+      "August 15, 1947",
+      "January 26, 1950",
+      "August 15, 1950"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Who was the chairman of the Constituent Assembly that drafted the Indian Constitution?",
+    "choices": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Dr. B.R. Ambedkar"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the term for the introductory part of a document like the Indian Constitution?",
+    "choices":[
+      "Article 1",
+      "The Preamble",
+      "The Epilogue",
+      "The Appendix"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "On April 1, 2010, India became one of how many countries to make education a fundamental right of every child?",
+    "choices": [
+      "100",
+      "135",
+      "200",
+      "50"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "What is the 'supreme law of the land' according to the text?",
+    "choices": [
+      "The Directive Principles",
+      "The Fundamental Duties",
+      "The Constitution",
+      "The Preamble"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When did the Indian Constitution come into effect?",
+    "choices": [
+      "January 26, 1947",
+      "January 26, 1950",
+      "August 15, 1947",
+      "April 1, 2010"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'Sovereign' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India is ruled by a monarch",
+      "India is dependent on other nations",
+      "India is independent and free to govern itself",
+      "India's government is elected by the people"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does 'Socialist' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India's people are free to practice any religion",
+      "India holds and treats all people equally",
+      "India's government is headed by the President",
+      "India is the largest democracy in the world"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'Secular' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India considers all religions equal",
+      "India is a republic",
+      "India is a democracy",
+      "India's government is elected by its people"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does 'Democratic' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India's government is elected by its people",
+      "India is a republic",
+      "India is sovereign",
+      "India is socialist"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does 'Republic' mean in the context of the Indian Constitution?",
+    "choices": [
+      "India is a democracy",
+      "India is governed by elected representatives of the people",
+      "India is sovereign",
+      "India is secular"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who drafted the Indian Constitution?",
+    "choices": [
+      "An unelected assembly",
+      "Dr. B.R. Ambedkar and his team",
+      "The President of India",
+      "The British Parliament"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the set of rules which a government has to follow in order to govern a country called?",
+    "choices":[
+      "Directive Principles",
+      "Fundamental Duties",
+      "Constitution",
+      "Preamble"
+    ],
+    "correctAnswer":2
+  },
+  {
+    "question": "According to the text, when did India become one of 135 countries to make education a fundamental right of every child?",
+    "choices": [
+      "January 26, 1950",
+      "April 1, 2010",
+      "August 15, 1947",
+      "1950"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "The Indian Constitution came into effect on:",
+    "choices": [
+      "15th January 1947",
+      "15th August 1947",
+      "26th January 1950",
+      "15th August 1950"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Respecting the national flag and the national anthem is a:",
+    "choices": [
+      "Fundamental Right",
+      "Fundamental Duty",
+      "Directive Principle",
+      "None of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The Government cannot differentiate between people on the basis of:",
+    "choices": [
+      "Caste",
+      "Colour",
+      "Religion",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "No one can employ children below _______ years of age in India.",
+    "choices": [
+      "18",
+      "17",
+      "14",
+      "15"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Our Constitution guarantees how many Fundamental Rights to its citizens?",
+    "choices": [
+      "Six",
+      "Eight",
+      "Ten",
+      "Twelve"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The guidelines laid down for the Government to follow in the Constitution are called:",
+    "choices": [
+      "Fundamental Rights",
+      "Fundamental Duties",
+      "Directive Principles",
+      "Constitutional Remedies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which right ensures that no one can be exploited and no one can employ children below 14 years of age?",
+    "choices": [
+      "Right to equality",
+      "Right to freedom",
+      "Right against exploitation",
+      "Right to freedom of religion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the guidelines that the government must follow, as mentioned in the Constitution?",
+    "choices": [
+      "Fundamental Rights",
+      "Fundamental Duties",
+      "Directive Principles",
+      "Constitutional Remedies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which right allows citizens to practice any religion?",
+    "choices": [
+      "Right to equality",
+      "Right to freedom",
+      "Right to freedom of religion",
+      "Cultural and Educational rights"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the purpose of the Right to Constitutional Remedies?",
+    "choices": [
+      "To ensure equality among all citizens",
+      "To protect Fundamental Rights",
+      "To guarantee freedom of speech",
+      "To prevent exploitation of children"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the most important resource for a country?",
+    "choices": [
+      "Natural resources",
+      "Human resources",
+      "Financial resources",
+      "Technological resources"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the three main problems hindering the development of human resources in India, as mentioned in the text?",
+    "choices": [
+      "Overpopulation, lack of education, poverty",
+      "Unemployment, inequality, corruption",
+      "Illiteracy, disease, famine",
+      "Pollution, deforestation, climate change"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "According to the text, what is necessary to utilize natural resources effectively?",
+    "choices": [
+      "Intelligent, educated, and skilled people",
+      "Advanced technology and machinery",
+      "Abundant financial capital",
+      "Favorable government policies"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is India's rank in terms of population size in the world?",
+    "choices": [
+      "First",
+      "Second",
+      "Seventh",
+      "Tenth"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the approximate population of India, as stated in the text?",
+    "choices": [
+      "100 crore",
+      "125 crore",
+      "150 crore",
+      "200 crore"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are some measures taken by the government to develop human resources?",
+    "choices": [
+      "Population control, education, health, removal of poverty",
+      "Tax cuts, infrastructure development, deregulation",
+      "Military spending, border security, national defense",
+      "Foreign aid, international trade, economic diplomacy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the term used to describe the people of a country as the most important resource?",
+    "choices": [
+      "Natural resources",
+      "Human resources",
+      "Capital resources",
+      "Financial resources"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the main idea of the section 'Humans as a Resource'?",
+    "choices": [
+      "Natural resources are more important than human resources",
+      "Human resources are crucial for utilizing natural resources effectively",
+      "India has abundant natural resources but lacks human resources",
+      "The government is doing enough to develop human resources"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is India's rank in terms of land area in the world, as mentioned in the text?",
+    "choices": [
+      "First",
+      "Second",
+      "Seventh",
+      "Tenth"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What role do all the people of India play in relation to the country's resources?",
+    "choices": [
+      "They consume the country's resources.",
+      "They contribute to the country's human resources.",
+      "They deplete the country's natural resources.",
+      "They ignore the country's development."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What percentage of the world's land area does India occupy?",
+    "choices": [
+      "17.5%",
+      "2.4%",
+      "10%",
+      "5%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What percentage of the world's population resides in India?",
+    "choices": [
+      "2.4%",
+      "17.5%",
+      "10%",
+      "5%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the main occupation of most Indians?",
+    "choices": [
+      "Industry",
+      "Agriculture",
+      "Service",
+      "Technology"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is population density?",
+    "choices": [
+      "Number of people living in one square kilometer",
+      "Total number of people in a country",
+      "Number of houses in a city",
+      "Number of schools in a region"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the average population density of the world (people per square kilometer)?",
+    "choices":[
+      "324",
+      "45",
+      "100",
+      "200"
+    ],
+    "correctAnswer":1
+  },
+  {
+    "question": "What is the average population density of India (people per square kilometer)?",
+    "choices": [
+      "45",
+      "100",
+      "200",
+      "324"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which state in India is the most populous?",
+    "choices": [
+      "Sikkim",
+      "Uttar Pradesh",
+      "West Bengal",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which state in India is the least populous?",
+    "choices": [
+      "Uttar Pradesh",
+      "Bihar",
+      "Sikkim",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a major problem hindering the development of human resources in India, according to the text?",
+    "choices": [
+      "Lack of natural resources",
+      "Overpopulation",
+      "Lack of technology",
+      "Favorable climate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is one of the measures taken by the Indian government to address the challenges related to human resources?",
+    "choices": [
+      "Ignoring the issue of poverty",
+      "Promoting population growth",
+      "Implementing population control measures",
+      "Reducing the number of schools"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The least populous state is:",
+    "choices": [
+      "Nagaland",
+      "Goa",
+      "Sikkim",
+      "Mizoram"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The Sarva Shiksha Abhiyan aims at:",
+    "choices": [
+      "Educating all uneducated adults",
+      "Educating all children between the age of 6-14 years",
+      "Educating all children between the age of 6-16 years",
+      "Educating all children and uneducated adults"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "People who go to cities or towns from villages to look for work are called:",
+    "choices": [
+      "wagers",
+      "migrants",
+      "labourers",
+      "none of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "To ensure people are healthy, our Government has:",
+    "choices": [
+      "opened schools",
+      "set up hospitals",
+      "provided loans",
+      "all of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Overpopulation helps in the development of human resource. True or False?",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Having a large population puts too much pressure on which of the following things?",
+    "choices": [
+      "Natural resources",
+      "Amenities",
+      "Services",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is not able to keep up pace with the ever-increasing population?",
+    "choices": [
+      "Food and Water",
+      "Sanitation and Schools",
+      "Roads and Transport",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Why are there more jobs and money in the cities?",
+    "choices": [
+      "Due to more occupations",
+      "Due to more markets",
+      "Due to better roads",
+      "Due to more development"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What causes a population shift towards urban areas?",
+    "choices": [
+      "More jobs",
+      "More money",
+      "More houses",
+      "Both (i) and (ii)"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Why are migrant workers employed as daily wagers?",
+    "choices": [
+      "They feel comfortable as daily wagers",
+      "They have little education",
+      "They are skilled",
+      "They are unskilled"
+    ],
+    "correctAnswer": 3
+  },
+   {
+    "question": "Which of the following metals is found in the maximum quantity in India?",
+    "choices": ["Manganese", "Copper", "Aluminium", "Iron"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In which state is copper mainly found?",
+    "choices": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Telangana"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following states has significant aluminium deposits?",
+    "choices": ["Karnataka", "Jharkhand", "Tamil Nadu", "All of these"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How do improved mining practices and advanced technology aid in mineral conservation?",
+    "choices": ["Not mentioned in the text", "Reduce waste and improve efficiency", "Increase mining speed", "None of the above"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the use of Manganese?",
+    "choices": ["Not specified", "Used in steel production", "Used as a fertilizer", "Used in construction"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the uses of mica, and which states have significant deposits?",
+    "choices": ["Not specified", "Electrical insulation, various states", "Building material, Rajasthan only", "Packaging, Tamil Nadu only"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are oil wells? Name a few.",
+    "choices": ["Not mentioned", "Underground oil reservoirs, various examples", "Surface oil deposits, specific names", "Artificial oil lakes, unnamed"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which mineral is known as crude oil, and where is it commonly found?",
+    "choices": ["Not mentioned", "Petroleum, underground reservoirs", "Coal, surface deposits", "Natural gas, underground reservoirs"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How can electric cars contribute to mineral resource conservation?",
+    "choices": ["Not specified", "Reduce dependence on fossil fuels", "Require less mining", "Reduce pollution"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why do environmental agencies often protest against mining operations?",
+    "choices": ["Not specified", "Environmental damage and disruption", "Lack of jobs", "High costs"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the main reason forests are considered an important natural resource?",
+    "choices": [
+      "They provide timber for houses and furniture.",
+      "They help regulate rainfall and cool the area.",
+      "They provide oxygen and prevent soil erosion.",
+      "They offer shelter to animals and people."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What percentage of land in India is currently covered by forests?",
+    "choices": [
+      "10%",
+      "20%",
+      "33%",
+      "50%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the ideal percentage of land coverage that should be forests in India?",
+    "choices": [
+      "10%",
+      "20%",
+      "33%",
+      "50%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are evergreen forests also known as?",
+    "choices": [
+      "Monsoon forests",
+      "Tropical rainforests",
+      "Deciduous forests",
+      "Thorn forests"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of forest remains green throughout the year?",
+    "choices": [
+      "Deciduous forests",
+      "Evergreen forests",
+      "Thorn forests",
+      "Tidal forests"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the canopy in a forest?",
+    "choices": [
+      "The undergrowth of plants and bushes",
+      "The uppermost branches of trees forming a layer",
+      "The soil and nutrients in the forest floor",
+      "The area where animals and birds live"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why are deciduous forests called 'deciduous'?",
+    "choices": [
+      "Because they are dense and thick.",
+      "Because their trees shed leaves annually",
+      "Because they are found in hot regions.",
+      "Because they are found near water bodies."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Deciduous forests are also known as what?",
+    "choices": [
+      "Tropical rainforests",
+      "Monsoon forests",
+      "Evergreen forests",
+      "Mountain forests"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of these trees are commonly found in deciduous forests?",
+    "choices":[
+      "Ebony, mahogany, rosewood",
+      "Teak, sal, bamboo",
+      "Pine, fir, cedar",
+      "Palm, mangrove, coconut"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Where in India are evergreen forests mostly found?",
+    "choices": [
+      "Foothills of the Himalayas",
+      "Wetter parts of Southern Plateaus",
+      "Rainy slopes of Western Ghats",
+      "Arid regions of Rajasthan"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Thorn forests are mainly found in which type of areas?",
+    "choices": [
+      "Areas with heavy rainfall",
+      "Areas with moderate rainfall",
+      "Dry areas with little rainfall",
+      "Areas with frequent floods"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following trees are mainly found in Thorn forests?",
+    "choices": [
+      "Pine and Fir",
+      "Babul and Keekar",
+      "Deodar and Spruce",
+      "Sundari and Mangrove"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Another name for Thorn forests is:",
+    "choices": [
+      "Coniferous forests",
+      "Mangrove forests",
+      "Desert forests",
+      "Tidal forests"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Mountain forests are also known as:",
+    "choices": [
+      "Deciduous forests",
+      "Coniferous forests",
+      "Tropical forests",
+      "Temperate forests"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which trees are the main trees in Mountain forests?",
+    "choices": [
+      "Babul and Keekar",
+      "Pine, fir, chir, spruce, and deodar",
+      "Sundari and Mangrove",
+      "Teak and Sal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Tidal forests are also called:",
+    "choices": [
+      "Coniferous forests",
+      "Mangrove forests",
+      "Monsoon forests",
+      "Rainforests"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Where are tidal forests found?",
+    "choices": [
+      "High altitude regions",
+      "Desert regions",
+      "Delta regions of rivers",
+      "Areas with high rainfall"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The tidal forests in the Ganga-Brahmaputra Delta are called:",
+    "choices": [
+      "Keekar forests",
+      "Himalayan forests",
+      "Sunderbans",
+      "Nilgiri forests"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the name of the movement launched by female peasants in Uttarakhand to protect trees?",
+    "choices": [
+      "Vanmahotsav",
+      "Chipko Movement",
+      "Social Forestry Movement",
+      "Sacred Groves Movement"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is Vanmahotsav?",
+    "choices": [
+      "A movement to protect sacred groves",
+      "An annual festival for planting trees",
+      "A type of forest",
+      "A law to prevent deforestation"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "Which of these trees is a part of evergreen forests?",
+    "choices": [
+      "Keekar",
+      "Teak",
+      "Ebony",
+      "Pine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Tidal forests are also called:",
+    "choices": [
+      "Mangrove forests",
+      "Coniferous forests",
+      "Tropical forests",
+      "Thorny forests"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The Sunderban Delta is formed by these rivers:",
+    "choices": [
+      "Ganga-Yamuna",
+      "Yamuna-Brahmaputra",
+      "Ganga-Brahmaputra",
+      "Krishna-Godavari"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Every year, the Wildlife Week is celebrated in the month of:",
+    "choices": [
+      "January",
+      "October",
+      "May",
+      "March"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The pulp of which type of trees is used for making paper?",
+    "choices": [
+      "Deciduous",
+      "Evergreen",
+      "Mountain",
+      "Tidal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cutting of trees in India is banned in:",
+    "choices": [
+      "Forests reserves",
+      "National parks",
+      "Both Forests reserves and National parks",
+      "None of the above"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "At present, what percentage of land in our country is covered with forests?",
+    "choices": [
+      "10%",
+      "20%",
+      "30%",
+      "40%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who was the leader of the Chipko movement?",
+    "choices": [
+      "Sunderlal Bahuguna",
+      "Medha Patkar",
+      "Vandana Shiva",
+      "Chandi Prasad Bhatt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Babul and keekar trees are found in which type of forests?",
+    "choices": [
+      "Evergreen forests",
+      "Deciduous forests",
+      "Tropical forests",
+      "Tidal forests"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Deforestation ______ soil erosion.",
+    "choices": [
+      "increases",
+      "decreases",
+      "has no effect on",
+      "sometimes increases, sometimes decreases"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Which is the smallest continent in the world?",
+    "choices": [
+      "Asia",
+      "Europe",
+      "Australia",
+      "North America"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The Plateau region of India is:",
+    "choices": [
+      "Rich in mineral deposits",
+      "The food bowl of India",
+      "Surrounded by high mountain ranges",
+      "None of these"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The capital of Mizoram is:",
+    "choices": [
+      "Imphal",
+      "Aizawl",
+      "Agartala",
+      "Shillong"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The Brahmaputra river originates in:",
+    "choices": [
+      "Nepal",
+      "Myanmar",
+      "Tibet",
+      "Bangladesh"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The Indira Gandhi Canal gets water from which river?",
+    "choices": [
+      "Ganga",
+      "Brahmaputra",
+      "Yamuna",
+      "Satluj"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which is a popular dance form of Tamil Nadu?",
+    "choices": [
+      "Mohiniattam",
+      "Bharatnatyam",
+      "Kuchipudi",
+      "Kathakali"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The southernmost point of India is located in:",
+    "choices": [
+      "Kerala",
+      "Andaman and Nicobar Islands",
+      "Lakshadweep Islands",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Strong winds during the winter season are called:",
+    "choices": [
+      "Western disturbances",
+      "Eastern disturbances",
+      "Loo",
+      "None of these"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Many windmills have been set up in which of the following states?",
+    "choices": [
+      "Gujarat and Tamil Nadu",
+      "Maharashtra and Rajasthan",
+      "Kerala and West Bengal",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The Hirakud Dam is constructed on which river?",
+    "choices": [
+      "Narmada",
+      "Satluj",
+      "Krishna",
+      "Mahanadi"
+    ],
+    "correctAnswer": 3
+  },
+    {
+    "question": "Which state is NOT mentioned as a major producer of iron ore in India?",
+    "choices": [
+      "Jharkhand",
+      "Rajasthan",
+      "Goa",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the most important metal used to make tools, utensils, bridges, and railway coaches?",
+    "choices": [
+      "Copper",
+      "Gold",
+      "Manganese",
+      "Iron"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Besides steel, what other applications does Manganese have?",
+    "choices": [
+      "Fertilizers and paints only",
+      "Glass and ceramics only",
+      "Fertilizers, paints, glass, and ceramics",
+      "None of the above"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which country is a major importer of Indian iron ore?",
+    "choices": [
+      "China",
+      "USA",
+      "Japan",
+      "Germany"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "From what mineral is aluminum extracted?",
+    "choices": [
+      "Manganese",
+      "Bauxite",
+      "Iron ore",
+      "Copper"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which state is known for Kolar and Hutti gold mines?",
+    "choices": [
+      "Odisha",
+      "Madhya Pradesh",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the Southern Plateau area, especially the Chota Nagpur area known as?",
+    "choices": [
+      "India's coal belt",
+      "India's mineral belt",
+      "India's industrial belt",
+      "India's agricultural belt"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the main use of copper?",
+    "choices": [
+      "Making jewellery",
+      "Making utensils and tools",
+      "Electrical wires and machinery",
+      "All of the above"
+
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which two states are considered the richest in terms of mineral wealth?",
+    "choices": [
+      "Madhya Pradesh and Karnataka",
+      "Maharashtra and Odisha",
+      "Jharkhand and Rajasthan",
+      "Gujarat and Tamil Nadu"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Besides utensils, what other products are made from Aluminum?",
+    "choices": [
+      "Aeroplanes only",
+      "Household goods only",
+      "Aeroplanes and household goods",
+      "None of the above"
+    ],
+    "correctAnswer": 2
+  },
+    {
+    "question": "Which of the following is NOT a non-metallic mineral?",
+    "choices": ["Coal", "Petroleum", "Iron ore", "Natural gas"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are coal, petroleum, and natural gas also known as?",
+    "choices": ["Precious stones", "Metallic minerals", "Fossil fuels", "Gems"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is another name for petroleum?",
+    "choices": ["Mineral oil", "CNG", "Mica", "Black diamond"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which Indian state is known for the oldest oil well, Digboi?",
+    "choices": ["Gujarat", "Madhya Pradesh", "Assam", "Rajasthan"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is CNG?",
+    "choices": ["Compressed Natural Gas", "Crude Natural Gas", "Cooked Natural Gas", "Clean Natural Gas"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is another name for coal?",
+    "choices": ["White diamond", "Black diamond", "Red diamond", "Blue diamond"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which company is the largest coal producing company in the world?",
+    "choices": ["Coal India Limited", "Jharkhand Coal Mines", "West Bengal Coal Mines", "Madhya Pradesh Coal Mines"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are two methods of mining coal?",
+    "choices": ["Surface mining and deep mining", "Open-pit mining and shaft mining", "Strip mining and underground mining", "Both A and C"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which state in India is known for producing a large amount of mica?",
+    "choices": ["Maharashtra", "Jharkhand", "Tamil Nadu", "Kerala"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Where was the Koh-i-noor diamond mined?",
+    "choices": ["Madhya Pradesh", "Rajasthan", "Andhra Pradesh", "Gujarat"],
+    "correctAnswer": 2
+  },
+    {
+    "question": "An area that has many oil wells is called:",
+    "choices": [
+      "Oil mine",
+      "Deep mining",
+      "Oil fields",
+      "Fossil mine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "____ is/are known as India's mineral belt.",
+    "choices": [
+      "Northern Plains",
+      "Western Desert",
+      "Southern Plateaus",
+      "Coastal Plains"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "India is the largest producer of which of these minerals?",
+    "choices": [
+      "Coal",
+      "Petroleum",
+      "Copper",
+      "Mica"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of these states has large deposits of iron?",
+    "choices": [
+      "Madhya Pradesh",
+      "Odisha",
+      "Punjab",
+      "Haryana"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Aluminium is used for making:",
+    "choices": [
+      "plastics",
+      "aeroplanes",
+      "ornaments",
+      "crude oil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following are features of metal?",
+    "choices": [
+      "Hard",
+      "Shiny",
+      "Easy to shape",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which out of the following is NOT a non-metallic mineral?",
+    "choices": [
+      "Limestone",
+      "Iron",
+      "Precious stones",
+      "Petroleum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why are coal and petroleum known as mineral fuels?",
+    "choices": [
+      "Because they are obtained from minerals and used as fuels",
+      "Because they are obtained from minerals",
+      "Because they are non-metallic minerals",
+      "Because they do not contain metals"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following metals are found in metallic minerals?",
+    "choices": [
+      "Iron",
+      "Copper",
+      "Silver",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Gold and silver are most commonly used in making",
+    "choices": [
+      "Utensils",
+      "Toys",
+      "Watches",
+      "Jewellery"
+    ],
+    "correctAnswer": 3
+  },
+    {
+    "question": "Which of the following metals is found in the maximum quantity in India?",
+    "choices": ["Manganese", "Copper", "Aluminium", "Iron"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In which state is copper mainly found?",
+    "choices": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Telangana"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following states have aluminium deposits?",
+    "choices": ["Karnataka", "Jharkhand", "Tamil Nadu", "All of these"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How do better mining practices and use of latest technology help in conserving minerals?",
+    "choices": ["Reduces waste", "Improves efficiency", "Minimizes environmental impact", "All of the above"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What type of mineral is Manganese and what is it used for?",
+    "choices": ["Metallic, used in steel production", "Non-metallic, used in construction", "Metallic, used in batteries", "Non-metallic, used in electronics"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of mineral is mica and how is it useful to us?",
+    "choices": ["Metallic, used in electronics", "Non-metallic, used in insulation", "Metallic, used in construction", "Non-metallic, used in fertilizers"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are oil wells and name some?",
+    "choices": ["Places where oil is extracted", "Specific locations where oil is found"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which mineral is referred to as crude oil and where is it normally found?",
+    "choices": ["Petroleum, underground reservoirs", "Coal, underground mines", "Natural gas, underground reservoirs", "None of the above"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How can electric cars help conserve mineral resources?",
+    "choices": ["Reduce demand for petrol", "Reduce reliance on fossil fuels", "Decrease air pollution", "All of the above"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Why do environmental agencies often protest against mining operations?",
+    "choices": ["Environmental damage", "Disruption of ecosystems", "Habitat destruction", "All of the above"],
+    "correctAnswer": 3
+  },
+    {
+    "question": "What does the type of soil in a place depend on?",
+    "choices": [
+      "The amount of rainfall",
+      "The type of plants that grow there",
+      "The climate",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is soil conservation?",
+    "choices": [
+      "The process of preventing soil erosion",
+      "The use of fertilizers to improve soil fertility",
+      "The removal of topsoil",
+      "The process of growing crops"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which types of crops typically grow in alluvial soil?",
+    "choices": [
+      "Rice, wheat, and sugarcane",
+      "Desert plants",
+      "Mountain plants",
+      "All of the above"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why is desert soil often not fertile?",
+    "choices": [
+      "Lack of water",
+      "High salinity",
+      "Lack of nutrients",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which types of plants typically grow in mountain soil?",
+    "choices": [
+      "Coniferous trees and alpine plants",
+      "Rice and wheat",
+      "Sugarcane and cotton",
+      "Desert plants"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How is soil formed?",
+    "choices": [
+      "Weathering of rocks",
+      "Decomposition of organic matter",
+      "Both A and B",
+      "None of the above"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why is soil considered an important resource?",
+    "choices": [
+      "It supports plant growth",
+      "It provides habitat for many organisms",
+      "It is essential for agriculture",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is soil erosion?",
+    "choices": [
+      "The wearing away of topsoil",
+      "The process of soil formation",
+      "The addition of fertilizers to soil",
+      "The removal of rocks from soil"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What percentage of Earth's water is found in oceans and seas?",
+    "choices": [
+      "3%",
+      "97%",
+      "50%",
+      "70%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the sources of fresh water?",
+    "choices": [
+      "Rain, rivers, lakes, melting snow, and underground water",
+      "Only rain and rivers",
+      "Only underground water and melting snow",
+      "Only oceans and seas"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "What is the main source of fresh water in India?",
+    "choices": [
+      "Rivers",
+      "Lakes",
+      "Rain",
+      "Groundwater"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is desalination?",
+    "choices": [
+      "A process of removing salts and minerals from seawater",
+      "A method of irrigating fields",
+      "A type of well",
+      "A process of storing rainwater"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which season provides most of India's rainfall?",
+    "choices": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Monsoon"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What are reservoirs?",
+    "choices": [
+      "Small ponds",
+      "Large lakes, natural or man-made, used as a source of water supply",
+      "Underground water sources",
+      "Canals carrying water"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How is groundwater usually drawn out?",
+    "choices": [
+      "By hand pumps",
+      "By water wheels",
+      "By tube wells",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What are tube wells?",
+    "choices": [
+      "Wells with pipes or tubes attached to pump water",
+      "Wells dug in hilly areas",
+      "Tanks used for irrigation",
+      "Canals for water transportation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In which areas are tanks and ponds commonly used for irrigation?",
+    "choices": [
+      "Northern Plains",
+      "Southern Plateaus",
+      "Coastal regions",
+      "Desert areas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is a dam?",
+    "choices": [
+      "A structure built to control the flow of river water",
+      "A type of well",
+      "A large lake",
+      "A canal for water transport"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are sluice gates?",
+    "choices": [
+      "Openings in dams to control water flow",
+      "Types of pumps",
+      "Parts of a well",
+      "Types of canals"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are canals?",
+    "choices": [
+      "Long passages dug into the ground for carrying water",
+      "Types of tanks",
+      "Artificial lakes behind dams",
+      "Underground water sources"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "What is the main source of fresh water in India?",
+    "choices": [
+      "Rivers",
+      "Groundwater",
+      "Rain",
+      "Lakes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which season provides most of India's rainfall?",
+    "choices": [
+      "Spring",
+      "Autumn",
+      "Monsoon",
+      "Winter"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are reservoirs of water?",
+    "choices": [
+      "Rivers only",
+      "Lakes (natural or man-made)",
+      "Wells",
+      "Canals"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How is groundwater usually drawn up to the surface?",
+    "choices": [
+      "Electric pumps only",
+      "Water wheels",
+      "Hand pumps only",
+      "Water wheels and hand pumps"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What are tube wells?",
+    "choices": [
+      "Wells with pipes attached to electric pumps",
+      "Shallow wells",
+      "Deep wells",
+      "Wells using Persian wheels"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In what kind of areas are tanks and ponds commonly used for irrigation?",
+    "choices": [
+      "Flat plains",
+      "Rocky or hilly areas",
+      "Areas with high groundwater levels",
+      "Areas near rivers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is a dam?",
+    "choices": [
+      "A canal",
+      "A structure to control river water flow",
+      "A type of well",
+      "A reservoir"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are sluice gates?",
+    "choices": [
+      "Openings in dams to control water flow",
+      "Parts of a Persian wheel",
+      "Types of hand pumps",
+      "Sections of canals"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are canals?",
+    "choices": [
+      "Small rivers",
+      "Underground water channels",
+      "Artificial lakes",
+      "Channels to carry water to fields"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is desalination?",
+    "choices": [
+      "A method of irrigation",
+      "A process to remove salts and minerals from seawater",
+      "A type of water pump",
+      "A type of well"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "Which dam is the longest in the world?",
+    "choices": [
+      "Bhakra-Nangal Dam",
+      "Hirakud Dam",
+      "Tehri Dam",
+      "Sardar Sarovar Dam"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the name of the reservoir of Bhakra-Nangal Dam?",
+    "choices": [
+      "Nagarjuna Sagar",
+      "Gobind Sagar",
+      "Tehri Lake",
+      "Hirakud Reservoir"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which state is Hirakud Dam located in?",
+    "choices": [
+      "Uttarakhand",
+      "Madhya Pradesh",
+      "Odisha",
+      "Gujarat"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The Damodar Valley Project provides water to which states?",
+    "choices": [
+      "Gujarat and Madhya Pradesh",
+      "Punjab and Haryana",
+      "West Bengal and Jharkhand",
+      "Himachal Pradesh and Delhi"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "On which river is the Sardar Sarovar Dam built?",
+    "choices": [
+      "Krishna",
+      "Mahanadi",
+      "Narmada",
+      "Satluj"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which dam is the tallest in India?",
+    "choices": [
+      "Hirakud Dam",
+      "Bhakra-Nangal Dam",
+      "Tehri Dam",
+      "Sardar Sarovar Dam"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the main source of fresh water in India?",
+    "choices": [
+      "Rivers",
+      "Underground water",
+      "Rain",
+      "Lakes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What percentage of the Earth's total water is freshwater?",
+    "choices": [
+      "97%",
+      "50%",
+      "3%",
+      "10%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the technique of collecting and storing rainwater called?",
+    "choices": [
+      "Water conservation",
+      "Rainwater harvesting",
+      "Irrigation",
+      "Pollution reduction"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Besides rain, what are the main methods of irrigation mentioned?",
+    "choices": [
+      "Rivers only",
+      "Wells, tube wells, tanks, ponds, and dams",
+      "Dams only",
+      "Canals only"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "The dam that provides water to West Bengal and Jharkhand is:",
+    "choices": [
+      "Hirakund Dam",
+      "Damodar Valley Project",
+      "Tehri Dam",
+      "None of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Irrigation through ______ is common in south India.",
+    "choices": [
+      "tanks",
+      "wells",
+      "hand pumps",
+      "tube wells"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The Hirakud Dam is constructed on which river?",
+    "choices": [
+      "Narmada",
+      "Satluj",
+      "Krishna",
+      "Mahanadi"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Tubewells help in taking out water from:",
+    "choices": [
+      "Groundwater",
+      "River",
+      "Dam",
+      "None of these"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Small channels dug in the ground are called:",
+    "choices": [
+      "dams",
+      "canals",
+      "reservoirs",
+      "wells"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Indira Gandhi Canal brings water from which river to Gujarat/Rajasthan?",
+    "choices": [
+      "Satluj/Yamuna",
+      "Ganga/Brahmaputra",
+      "Narmada/Tapi",
+      "Mahanadi/Godavari"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Rivers that get water from melting glaciers are:",
+    "choices":[
+      "Rain-fed",
+      "Perennial",
+      "Seasonal",
+      "Ephemeral"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Southern rivers are rain-fed. When do they flow?",
+    "choices": [
+      "Throughout the year",
+      "Only during monsoons",
+      "Only during winter months",
+      "All seasons except summers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Lakes are reservoirs of water for an area.  True or false?",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The source of pure and fresh water for rivers coming from the mountains is:",
+    "choices": [
+      "Ground water",
+      "Rain water",
+      "Melting glaciers",
+      "All of these"
+    ],
+    "correctAnswer": 2
+  },
+    {
+    "question": "What is the process of breakdown of rocks to form soil called?",
+    "choices": [
+      "Erosion",
+      "Weathering",
+      "Deposition",
+      "Sedimentation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the most important quality of soil?",
+    "choices": [
+      "Color",
+      "Texture",
+      "Fertility",
+      "Moisture"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is manure?",
+    "choices": [
+      "A type of soil",
+      "Animal dung used as an organic fertilizer",
+      "A type of crop",
+      "A type of rock"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How many major types of soil are found in India?",
+    "choices": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of soil is extremely fertile and formed by the deposition of sand and silt by rivers?",
+    "choices": [
+      "Black soil",
+      "Red soil",
+      "Alluvial soil",
+      "Desert soil"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the natural forces that break down large rocks into smaller pieces to form soil?",
+    "choices": [
+      "Wind and rain only",
+      "Sun and water only",
+      "Wind, sun, and water",
+      "Erosion and deposition"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What makes the soil more fertile according to the text?",
+    "choices": [
+      "The presence of rocks",
+      "Earthworms burrowing deep into the soil",
+      "The amount of water it contains",
+      "The type of plants growing in it"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the topmost layer of the Earth on which plants and trees grow?",
+    "choices": [
+      "Subsoil",
+      "Bedrock",
+      "Soil",
+      "Clay"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is agriculture?",
+    "choices": [
+      "The study of rocks",
+      "The science or practice of farming",
+      "The study of animals",
+      "The study of weather"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Besides food production, what other roles does soil play according to the text?",
+    "choices": [
+      "It only produces food.",
+      "It influences landscape, environment, and lifestyles.",
+      "It has no other role besides food production.",
+      "It only supports plants."
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "Which soil is known as regur soil?",
+    "choices": [
+      "Alluvial soil",
+      "Black soil",
+      "Red soil",
+      "Laterite soil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In which region of India is black soil mainly found?",
+    "choices": [
+      "Northern Plains",
+      "Coastal Plains",
+      "Deccan Plateau",
+      "Himalayan mountains"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the color of red soil?",
+    "choices": [
+      "Black",
+      "Red",
+      "Yellow",
+      "Brown"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What element makes red soil red?",
+    "choices": [
+      "Clay",
+      "Sand",
+      "Iron",
+      "Humus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How is laterite soil formed?",
+    "choices": [
+      "From lava rocks",
+      "By river deposits",
+      "By leaching",
+      "By wind deposition"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which soil is ideal for growing cotton?",
+    "choices": [
+      "Alluvial soil",
+      "Black soil",
+      "Red soil",
+      "Laterite soil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What type of soil is found in the slopes of hills?",
+    "choices": [
+      "Desert soil",
+      "Mountain soil",
+      "Alluvial soil",
+      "Laterite soil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which soil is suitable for growing tea and coffee?",
+    "choices": [
+      "Alluvial soil",
+      "Black soil",
+      "Red soil",
+      "Laterite soil"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the characteristic of desert soil?",
+    "choices": [
+      "Rich in humus",
+      "Holds moisture well",
+      "Sandy and coarse",
+      "Very fertile"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is soil erosion?",
+    "choices": [
+      "Formation of new soil",
+      "Blowing or washing away of topsoil",
+      "Increase in soil fertility",
+      "Mixing of different soil types"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "Breaking down of lava rocks results in the formation of ______ soil.",
+    "choices": [
+      "Laterite",
+      "Black",
+      "Red",
+      "Alluvial"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is true about Laterite soil?",
+    "choices": [
+      "It is formed by deposition of sand and silt by rivers",
+      "It develops as a result of leaching",
+      "It is rich in humus",
+      "It is sandy and coarse"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "______ soil is formed by the deposition of sand and silt by rivers.",
+    "choices": [
+      "Alluvial",
+      "Desert",
+      "Laterite",
+      "Black"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "We can grow crops such as ______ in red soil.",
+    "choices": [
+      "sugarcane, cotton",
+      "coffee, rubber",
+      "rice, pulses",
+      "spices, maize"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Laterite soil can be made fertile by adding:",
+    "choices": [
+      "clay",
+      "fertilizers",
+      "volcanic rocks",
+      "lava"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How is soil formed?",
+    "choices": [
+      "Breakdown of stones into smaller pieces",
+      "Breakdown of pebbles into smaller pieces",
+      "Breakdown of rocks into smaller pieces",
+      "Breakdown of slabs into smaller pieces"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following natural forces help in breakdown of rocks to form soil?",
+    "choices": [
+      "Wind",
+      "Sun",
+      "Water",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following help in carrying sand and silt to different places?",
+    "choices": [
+      "Wind",
+      "Rain",
+      "Rivers",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "1 cm layer of soil gets formed in ______",
+    "choices": [
+      "Thousands of years",
+      "Thousand years",
+      "Hundreds of years",
+      "Hundred years"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Alluvial soil is shown in ______ colour on the map.",
+    "choices": [
+      "Yellow",
+      "Green",
+      "Purple",
+      "Brown"
+    ],
+    "correctAnswer": 3
+  },
+    {
+    "question": "What is the shape of the Southern Plateaus?",
+    "choices": [
+      "Square",
+      "Rectangular",
+      "Triangular",
+      "Circular"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the Southern Plateaus surrounded by?",
+    "choices": [
+      "Rivers",
+      "Seas",
+      "Hill ranges",
+      "Deserts"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the approximate length of the Southern Plateaus from north to south?",
+    "choices": [
+      "1,000 km",
+      "1,400 km",
+      "1,600 km",
+      "2,000 km"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which river divides the Southern Plateaus into two parts?",
+    "choices": [
+      "Ganges",
+      "Brahmaputra",
+      "Narmada",
+      "Godavari"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the two parts the Narmada River divides the Southern Plateaus into?",
+    "choices": [
+      "Western Ghats and Eastern Ghats",
+      "Central Highlands and Deccan Plateau",
+      "Malwa Plateau and Chota Nagpur Plateau",
+      "Aravalli Hills and Rajmahal Hills"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which hill range bounds the Southern Plateaus in the northwest?",
+    "choices": [
+      "Vindhya Range",
+      "Eastern Ghats",
+      "Aravalli Range",
+      "Rajmahal Hills"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which hill range bounds the Southern Plateaus in the northeast?",
+    "choices": [
+      "Vindhya Range",
+      "Eastern Ghats",
+      "Aravalli Range",
+      "Rajmahal Hills"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What type of soil is found in the Malwa Plateau?",
+    "choices": [
+      "Sandy soil",
+      "Clayey soil",
+      "Black soil",
+      "Red soil"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which crops are suitable for growing in the Malwa Plateau?",
+    "choices": [
+      "Rice and wheat",
+      "Tea and coffee",
+      "Cotton and sugarcane",
+      "Jute and maize"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Name two cities located in the Malwa Plateau region.",
+    "choices": [
+      "Mumbai and Delhi",
+      "Kolkata and Chennai",
+      "Indore and Ujjain",
+      "Bangalore and Hyderabad"
+    ],
+    "correctAnswer": 2
+  },
+    {
+    "question": "In which direction does the Deccan Plateau slope?",
+    "choices": [
+      "North to South",
+      "East to West",
+      "West to East",
+      "South to North"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which river is considered the longest in the Deccan Plateau?",
+    "choices": [
+      "Krishna",
+      "Godavari",
+      "Mahanadi",
+      "Kaveri"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What type of soil is ideal for growing cotton and sugarcane in the Deccan Plateau?",
+    "choices": [
+      "Sandy soil",
+      "Clayey soil",
+      "Fertile black soil",
+      "Laterite soil"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Anai Mudi is the highest peak of which mountain range?",
+    "choices": [
+      "Eastern Ghats",
+      "Western Ghats",
+      "Vindhya Range",
+      "Satpura Range"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the rivers that often form deltas before flowing into the Bay of Bengal?",
+    "choices": [
+      "Narmada and Tapi",
+      "Mahanadi, Godavari, Krishna and Kaveri",
+      "Chambal, Son, and Betwa",
+      "All of the above"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the capital of Madhya Pradesh?",
+    "choices": [
+      "Indore",
+      "Bhopal",
+      "Gwalior",
+      "Jabalpur"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which state is known as the largest producer of soybean in India?",
+    "choices": [
+      "Chhattisgarh",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The Chota Nagpur Plateau is rich in which minerals?",
+    "choices": [
+      "Gold and Silver",
+      "Coal, Iron, Manganese, Bauxite, and Mica",
+      "Copper and Zinc",
+      "None of the above"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the capital of Chhattisgarh?",
+    "choices": [
+      "Bilaspur",
+      "Raipur",
+      "Jagdalpur",
+      "Durg"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In which year was Chhattisgarh formed?",
+    "choices": [
+      "1990",
+      "2000",
+      "2010",
+      "1980"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "What is the main crop grown in the region described in the first section?",
+    "choices": ["Linseed", "Betel", "Watermelon", "Rice"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which city is the capital of Jharkhand?",
+    "choices": ["Jamshedpur", "Bokaro", "Ranchi", "Dhanbad"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the popular dance form of Odisha?",
+    "choices": ["Lavani", "Tamasha", "Odissi", "Kuchipudi"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the capital of Maharashtra?",
+    "choices": ["Pune", "Nagpur", "Mumbai", "Nashik"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which city is known as the 'garden city'?",
+    "choices": ["Mumbai", "Hyderabad", "Bengaluru", "Mysore"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the main language spoken in Karnataka?",
+    "choices": ["Telugu", "Urdu", "Kannada", "Marathi"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which state was Telangana formed out of?",
+    "choices": ["Karnataka", "Maharashtra", "Andhra Pradesh", "Odisha"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the main occupation of people in Andhra Pradesh and Telangana?",
+    "choices": ["Mining", "Fishing", "Farming", "Industry"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a popular dance form in Maharashtra?",
+    "choices": ["Odissi", "Lavani", "Kuchipudi", "Tamasha"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which city is an important center for information technology in Andhra Pradesh?",
+    "choices": ["Visakhapatnam", "Vijayawada", "Warangal", "Hyderabad"],
+    "correctAnswer": 3
+  },
+    {
+    "question": "Identify the festival shown in the image.",
+    "choices": [
+      "Ganesh Chaturthi",
+      "Sarhul celebrations",
+      "Rath Yatra of Puri",
+      "Navratri"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the major crops grown in Karnataka?",
+    "choices": [
+      "Rice, Wheat, Maize",
+      "Coffee, Tea, Spices",
+      "Cotton, Sugarcane, Jute",
+      "Pulses, Oilseeds, Vegetables"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why do rivers of the Southern Plateau flow very fast?",
+    "choices": [
+      "Steep slopes and high velocity",
+      "High rainfall and low evaporation",
+      "Large catchment area and wide channels",
+      "Glacial melting and heavy snow"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which hill ranges bound the Southern Plateaus?",
+    "choices": [
+      "Himalayas and Vindhyas",
+      "Western Ghats and Eastern Ghats",
+      "Aravalli and Satpura",
+      "Nilgiris and Anaimalai"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Name two famous tourist towns of Odisha and why they are famous.",
+    "choices": [
+      "Puri & Bhubaneswar - Temples",
+      "Cuttack & Sambalpur - Industries",
+      "Konark & Puri - Beaches",
+      "Rourkela & Jharsuguda - Mines"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why are several mines located in Chhattisgarh?",
+    "choices": [
+      "Abundance of mineral resources",
+      "Favorable geographic conditions",
+      "Presence of skilled workforce",
+      "Government incentives and policies"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Discuss the major rivers in the Southern Plateau.",
+    "choices": [
+      "Ganga, Yamuna, Brahmaputra",
+      "Godavari, Krishna, Kaveri",
+      "Mahanadi, Narmada, Tapti",
+      "Indus, Jhelum, Chenab"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the capital of Madhya Pradesh?",
+    "choices": [
+      "Bhopal",
+      "Indore",
+      "Jabalpur",
+      "Gwalior"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why do people protest against the setting up of mines in plateau areas?",
+    "choices": [
+      "Environmental damage and displacement",
+      "Lack of development benefits for local communities",
+      "Concerns about water and air pollution",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How do the Southern Plateaus get water during the seasonal dry periods?",
+    "choices": [
+      "Rainfall and groundwater",
+      "Reservoirs and canals",
+      "Water harvesting techniques",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  }
+]
