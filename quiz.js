@@ -10,6 +10,13 @@ const jsonFileUrls = [
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/TheSolarSystem.json",
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/AnimalReproduction.json",
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/TeethDigestion.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/OurForestAndWildlifeResources.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/OurHumanResources.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/OurMineralResources.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/OurRightsAndDuties.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/OurSoilResources.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/OurWaterResources.json",
+    "https://raw.githubusercontent.com/brathoreittest/quizapp/main/TheSouthernPlateaus.json",
     "https://raw.githubusercontent.com/brathoreittest/quizapp/main/SST.json",
 ];
 
