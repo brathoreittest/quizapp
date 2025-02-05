@@ -86,7 +86,7 @@ function showQuestion() {
     nextButton.style.display = "none";
     
     const currentQuestion = questions[currentQuestionIndex];
-    questionElement.innerText = currentQuestion.question;
+    questionElement.innerText = `Q${currentQuestionIndex + 1}: ${currentQuestion.question}`; // Add question number
     
     currentQuestion.choices.forEach((choice, index) => {
         const li = document.createElement("li");
