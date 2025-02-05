@@ -1,27 +1,7 @@
 [
   {
-    "question": "What is the chapter number discussed in the image?",
-    "choices": ["12", "13", "14", "15"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is the main topic of the chapter?",
-    "choices": ["Our Oceans and Marine Life", "Our Forests and Wildlife Resources", "Our Mountains and Hill Stations", "Our Rivers and Lakes"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Which type of forest is NOT mentioned in the image?",
-    "choices": ["Evergreen", "Deciduous", "Tropical Rainforest", "Tidal"],
-    "correctAnswer": 2
-  },
-  {
     "question": "What is a large area of land covered with lots of trees, bushes, and plants called?",
     "choices": ["Jungle", "Park", "Forest", "Garden"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "According to the image, what does natural vegetation mean?",
-    "choices": ["Plants grown in a greenhouse", "Plants grown using fertilizers", "Plants and trees that grow naturally on their own", "Plants grown in pots"],
     "correctAnswer": 2
   },
   {
@@ -35,21 +15,6 @@
     "correctAnswer": 2
   },
   {
-    "question": "Which of these is a type of forest mentioned in the provided text?",
-    "choices": ["Jungle", "Desert", "Savanna", "Mountain"],
-    "correctAnswer": 3
-  },
-  {
-    "question": "What is one way mentioned in the image to conserve our forests?",
-    "choices": ["Cutting down trees", "Starting forest fires", "Saving our forests", "Ignoring forest preservation"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What is the page number indicated at the bottom of the image?",
-    "choices": ["94", "95", "96", "97"],
-    "correctAnswer": 1
-  },
-    {
     "question": "What is the main reason forests are considered an important natural resource?",
     "choices": [
       "They provide timber for houses and furniture.",
